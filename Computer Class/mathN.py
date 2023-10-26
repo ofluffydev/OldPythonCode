@@ -1,0 +1,8 @@
+integerOne = int(input("Integer One? "))
+integerTwo = int(input("Integer Two? "))
+decimalOne = float(input("Number with decimal? "))
+print("Product of int one and int two: "+str(integerOne*integerTwo))
+print("Product of all 3 numbers is "+str(integerOne*integerTwo*decimalOne))
+print("%s mod 2 is %s" % (integerOne, integerOne%2))
+print("%s mod 2 is %s" % (integerTwo, integerTwo%2))
+print("%s mod 2 is %.1f" % (decimalOne, float(decimalOne%2)))

@@ -1,0 +1,2775 @@
+I wish I could use my Native Instruments hardware and programs on this OS
+Link: https://www.reddit.com/r/chromeos/comments/wgkyll/i_wish_i_could_use_my_native_instruments_hardware/
+
+Concept: ChromeOS with a balanced UI — Left: Weather, Phonehub, Notifications. Center: App Launcher, Apps. Right: Settings, Fast Pair, Calendar. I also made the launcher a bit smaller, centered, and added app notification badges with numbers instead of just a dot.
+Link: https://www.reddit.com/r/chromeos/comments/12xvofp/concept_chromeos_with_a_balanced_ui_left_weather/
+
+I wish you could cast stuff to chromeOS devices?
+Link: https://www.reddit.com/r/chromeos/comments/978vj4/i_wish_you_could_cast_stuff_to_chromeos_devices/
+
+i HATE my chromebook, chrome OS sucks
+Link: https://www.reddit.com/r/chromeos/comments/11ron3e/i_hate_my_chromebook_chrome_os_sucks/
+
+Passkeys on ChromeOS: can we use them to unlock your Chromebook? I don't see the option, it's either the Google Account password or Chromebook pin. Also, in the Google Developers site ChromeOS is not even mentioned. Chrome in ChromeOS supports them, but no ChromeOS itself.
+Link: https://www.reddit.com/r/chromeos/comments/1394lbi/passkeys_on_chromeos_can_we_use_them_to_unlock/
+
+Concept 2: ChromeOS with a balanced UI — Left: App launcher, Apps. Right: Phonehub, Notifications, Settings, Fast Pair, Calendar. This seems the simplest and cleanest UI, but I also like the App Launcher in the middle. It's clear that ChromeOS needs more customization options.
+Link: https://www.reddit.com/r/chromeos/comments/12xzkom/concept_2_chromeos_with_a_balanced_ui_left_app/
+
+Do Chrome OS version And Chrome browser version always match? For example, if I’m using Chrome OS 101, can I assume my browser is also version 101?
+Link: https://www.reddit.com/r/chromeos/comments/11t20dz/do_chrome_os_version_and_chrome_browser_version/
+
+I know it's an impossible dream but I wish we could get Android O on ChromeOS in Q3
+Link: https://www.reddit.com/r/chromeos/comments/611ir6/i_know_its_an_impossible_dream_but_i_wish_we/
+
+I downloaded a suspicious file and now my chromebook has slowed down intensely, where can I find an antivirus for ChromeOS?
+Link: https://www.reddit.com/r/chromeos/comments/10erf7i/i_downloaded_a_suspicious_file_and_now_my/
+
+How I feel whenever I mention using ChromeOS...
+Link: https://www.reddit.com/r/chromeos/comments/115fud4/how_i_feel_whenever_i_mention_using_chromeos/
+
+My kid's account freezes chromeOS on Lenovo Duet 2
+Link: https://www.reddit.com/r/chromeos/comments/137d3v7/my_kids_account_freezes_chromeos_on_lenovo_duet_2/
+
+ChromeOS App Streaming is awesome. One thing though: There is too much going on on the left side of the shelf. I would like this new feature to be on the right side instead, next to App Launcher button. Thoughts?
+Link: https://www.reddit.com/r/chromeos/comments/12cr0lo/chromeos_app_streaming_is_awesome_one_thing/
+
+Any way we could get a breakout from the chromeOS trash? I've already managed to get folders with backslashes in their name from it.
+Link: https://www.reddit.com/r/chromeos/comments/10xkvab/any_way_we_could_get_a_breakout_from_the_chromeos/
+
+Can we make a wish list of software features that we would like to see added to the OS?
+Link: https://www.reddit.com/r/chromeos/comments/yhfxcr/can_we_make_a_wish_list_of_software_features_that/
+
+i am looking to install lubuntu and ditching chrome os on my chromebook cb-315
+Link: https://www.reddit.com/r/chromeos/comments/119jc23/i_am_looking_to_install_lubuntu_and_ditching/
+
+Know of anyone who can restore the OS on my Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/11wd6r3/know_of_anyone_who_can_restore_the_os_on_my/
+
+Do Chromebooks have unique features? I mean, can you do on a MacBook Air everything you can do on a Chromebook? Not sure if they do, but I feel like chromeOS would benefit of exclusive features, like Pixels phones do. Pic: Pixel Magic Eraser.
+Link: https://www.reddit.com/r/chromeos/comments/11s5j7f/do_chromebooks_have_unique_features_i_mean_can/
+
+When I sit my open airpods on my chromebook, on the bottom right side next to the touchpad...and they are open, my screen on the computer turns black. It stops when I pull them away. Wth could be causing this?
+Link: https://www.reddit.com/r/chromeos/comments/125qwh9/when_i_sit_my_open_airpods_on_my_chromebook_on/
+
+I wish the native ChromeOS screenrecorder made mp4 files instead of webm
+Link: https://www.reddit.com/r/chromeos/comments/nn5hv6/i_wish_the_native_chromeos_screenrecorder_made/
+
+(Chrome OS version sold separately) Those this mean that there is a chrome os version of minecraft. I can't seem to find it on playstore or anywhere in only see the minecraft education edition
+Link: https://www.reddit.com/r/chromeos/comments/11l4sgy/chrome_os_version_sold_separately_those_this_mean/
+
+ChromeOs 109.0.5414.125 force me to connect to google everytime I start my PC
+Link: https://www.reddit.com/r/chromeos/comments/10t7wx2/chromeos_10905414125_force_me_to_connect_to/
+
+Can I use my former ChromeOs book as a home server, like below.
+Link: https://www.reddit.com/r/chromeos/comments/zg65e2/can_i_use_my_former_chromeos_book_as_a_home/
+
+Cant' say I remember the last time a reviewer was this positive about CrhomeOS, and wished it was on the device being reviewed.
+Link: https://www.reddit.com/r/chromeos/comments/ml3anl/cant_say_i_remember_the_last_time_a_reviewer_was/
+
+Android Apps can No Longer See My USB Drive in ChromeOS 111
+Link: https://www.reddit.com/r/chromeos/comments/122m43p/android_apps_can_no_longer_see_my_usb_drive_in/
+
+I need to replace my os w xfce
+Link: https://www.reddit.com/r/chromeos/comments/10jlnqi/i_need_to_replace_my_os_w_xfce/
+
+I AM NEW TO CHROME OS AND WANT TO CLEAR MY DOUBT.
+Link: https://www.reddit.com/r/chromeos/comments/1035cn4/i_am_new_to_chrome_os_and_want_to_clear_my_doubt/
+
+How do I make the OS font bigger?
+Link: https://www.reddit.com/r/chromeos/comments/1372c9p/how_do_i_make_the_os_font_bigger/
+
+Is it just me or my Chromebook Duet (1), feels smoother with ChromeOS 110.
+Link: https://www.reddit.com/r/chromeos/comments/11482wm/is_it_just_me_or_my_chromebook_duet_1_feels/
+
+What do you wish ChromeOS could do that it currently can't?
+Link: https://www.reddit.com/r/chromeos/comments/33w3us/what_do_you_wish_chromeos_could_do_that_it/
+
+How do I set up a media server on ChromeOS?
+Link: https://www.reddit.com/r/chromeos/comments/12o1ayu/how_do_i_set_up_a_media_server_on_chromeos/
+
+How do I turn off ChromeOS updates
+Link: https://www.reddit.com/r/chromeos/comments/11ueue2/how_do_i_turn_off_chromeos_updates/
+
+Accelerating My Migration to ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/10mp12d/accelerating_my_migration_to_chromeos/
+
+Hey folks. I have a Asus Chromebook CX22NA. Had no use for the ChromeOS on it at the time. Installed windows 10 on it. But now I'd like the original stock ChromeOS back on it. Thing is when I went to do the steps to do so, the USB thumb drive I had the recovery media on got corrupted. Any fix?
+Link: https://www.reddit.com/r/chromeos/comments/11ewtoc/hey_folks_i_have_a_asus_chromebook_cx22na_had_no/
+
+Chrome OS Could Use Some More Customization Options
+Link: https://www.reddit.com/r/chromeos/comments/y917ub/chrome_os_could_use_some_more_customization/
+
+How do I install Wine on ChromeOS? And should I install Wine in ChromeOS?
+Link: https://www.reddit.com/r/chromeos/comments/11kneee/how_do_i_install_wine_on_chromeos_and_should_i/
+
+I love ChromeOS but Microsoft office :(
+Link: https://www.reddit.com/r/chromeos/comments/10f0dxn/i_love_chromeos_but_microsoft_office/
+
+My daughter received an Asus ChromeOS from my mother a week ago with no issues until this evening. I have no clue about laptops, notebooks or PCs. What’s going on with this thing? YouTube, Netflix, Reddit, all videos glitch out like this. I’d appreciate any help. Thank you.
+Link: https://www.reddit.com/r/chromeos/comments/w09kci/my_daughter_received_an_asus_chromeos_from_my/
+
+A ChromeOs tablets for my curmudgeon dad:
+Link: https://www.reddit.com/r/chromeos/comments/10cocnd/a_chromeos_tablets_for_my_curmudgeon_dad/
+
+What is the one thing you wish you could change about ChromeOS?
+Link: https://www.reddit.com/r/chromeos/comments/1h3ga5/what_is_the_one_thing_you_wish_you_could_change/
+
+My Toshiba chromebook says "Chrome OS missing or damaged" and goes black when I try to reinstall. Could someone help?
+Link: https://www.reddit.com/r/chromeos/comments/8ijwxn/my_toshiba_chromebook_says_chrome_os_missing_or/
+
+Is there any PWA already using the new "Window Controls Overlay" API, available now on Chrome/ChromeOS 105? This could make PWA potentially look exactly like native apps.
+Link: https://www.reddit.com/r/chromeos/comments/x52bod/is_there_any_pwa_already_using_the_new_window/
+
+Samsung Chromebook 4 Chrome OS 11.6 Do I need malwarebytes or antivirus?
+Link: https://www.reddit.com/r/chromeos/comments/11dnkkj/samsung_chromebook_4_chrome_os_116_do_i_need/
+
+Could someone explain to me why I keep getting these prompts when using Chrome on an Asus Chromebook? And how can I disable these?
+Link: https://www.reddit.com/r/chromeos/comments/135ygfe/could_someone_explain_to_me_why_i_keep_getting/
+
+win7 to Chrome OS, Can I cd Player.
+Link: https://www.reddit.com/r/chromeos/comments/113th0q/win7_to_chrome_os_can_i_cd_player/
+
+My typing is acting weird on certain parts of the web, like non-markdown mode in Reddit for example, WhatsApp web, and other places like when typing in Google keep on the web, I have Chrome OS version 103.0.5060.132, at first I thought my keyboard was acting up but I see that it's only
+Link: https://www.reddit.com/r/chromeos/comments/wgijdr/my_typing_is_acting_weird_on_certain_parts_of_the/
+
+New to ChromeOS, what are some recommend things I should or try
+Link: https://www.reddit.com/r/chromeos/comments/ztu06l/new_to_chromeos_what_are_some_recommend_things_i/
+
+My chromebook is stuck in the recovery mode and ive tried to reinstall the os multiple times
+Link: https://www.reddit.com/r/chromeos/comments/zw852d/my_chromebook_is_stuck_in_the_recovery_mode_and/
+
+How do I configure ChromeOS to open the first window of an app when clicking on it in the shelf?
+Link: https://www.reddit.com/r/chromeos/comments/11tkc6m/how_do_i_configure_chromeos_to_open_the_first/
+
+can someone tell me why my Acer C720 Chromebook keeps doing this.. Even for ChromeOS supported apps..
+Link: https://www.reddit.com/r/chromeos/comments/10s13ky/can_someone_tell_me_why_my_acer_c720_chromebook/
+
+Chrome OS Could Become the Future Leader of Personal Computing
+Link: https://www.reddit.com/r/chromeos/comments/s2zc39/chrome_os_could_become_the_future_leader_of/
+
+My Top 33 ChromeOS Extensions, Addons and Apps [2022]
+Link: https://www.reddit.com/r/chromeos/comments/zrl582/my_top_33_chromeos_extensions_addons_and_apps_2022/
+
+Have you tried screensavers in Chrome OS? Love how it alternates between 2 images and a single image on my portrait mode monitor.
+Link: https://www.reddit.com/r/chromeos/comments/10lqqp7/have_you_tried_screensavers_in_chrome_os_love_how/
+
+I'm trying to use Chrome OS Flex on this old Thinkpad Edge E545 but after the chrome logo this happens. Any idea what I could do about it, if anything?
+Link: https://www.reddit.com/r/chromeos/comments/sw90f7/im_trying_to_use_chrome_os_flex_on_this_old/
+
+I wish I could start my CB without Chrome Browser starting.
+Link: https://www.reddit.com/r/chromeos/comments/eom7qu/i_wish_i_could_start_my_cb_without_chrome_browser/
+
+ChromeOS crashed and now some icons replaced are by generic placeholders, what should i do?
+Link: https://www.reddit.com/r/chromeos/comments/zta2nl/chromeos_crashed_and_now_some_icons_replaced_are/
+
+ChromeOS is more than robust enough to get everything you need done. I haven’t once wished I’d had a Macbook or a Windows 10 machine while using mine.
+Link: https://www.reddit.com/r/chromeos/comments/5573ac/chromeos_is_more_than_robust_enough_to_get/
+
+I tried to install ChromeOS Flex on my laptop but the screen goes black after the Chrome logo
+Link: https://www.reddit.com/r/chromeos/comments/supml1/i_tried_to_install_chromeos_flex_on_my_laptop_but/
+
+I finally have the new ChromeOS boot screen and productivity launcher on my Lenovo Duet!
+Link: https://www.reddit.com/r/chromeos/comments/tzb7me/i_finally_have_the_new_chromeos_boot_screen_and/
+
+Need help getting the correct version of ubuntu onto my HP Chromebook. Was able to install gnome 16.04 version, but cannot upgrade it. I used the crouton install method so I could switch between OS windows.
+Link: https://www.reddit.com/r/chromeos/comments/f3ui8m/need_help_getting_the_correct_version_of_ubuntu/
+
+Is there a way that I could install Chromeos/chromium OS on a USB stick and have it save my settings? (Persistent live USB)
+Link: https://www.reddit.com/r/chromeos/comments/b72gap/is_there_a_way_that_i_could_install/
+
+I'd like to buy a Chromebook Flip c436 but I also need a device to work with different software for the web coding. I don't wanna give up at Chrome OS so I thought maybe I can install a distro Linux in dual boot. Do you think is possible? Could you recommend me the right distro Linux?
+Link: https://www.reddit.com/r/chromeos/comments/g8y8t1/id_like_to_buy_a_chromebook_flip_c436_but_i_also/
+
+Lost my iPad Mini. Considering replacing with ChromeOS device with USI
+Link: https://www.reddit.com/r/chromeos/comments/uuomz3/lost_my_ipad_mini_considering_replacing_with/
+
+whenever i try reinstalling chrome os on my hp 11 g5 it fails
+Link: https://www.reddit.com/r/chromeos/comments/x0gohe/whenever_i_try_reinstalling_chrome_os_on_my_hp_11/
+
+Ubuntu died on my old machine so I said, Hey let's try ChromeOS Flex and here we are!
+Link: https://www.reddit.com/r/chromeos/comments/vcb1dw/ubuntu_died_on_my_old_machine_so_i_said_hey_lets/
+
+my Chromebook could not input Chinese
+Link: https://www.reddit.com/r/chromeos/comments/122ru43/my_chromebook_could_not_input_chinese/
+
+Samsung Galaxy Chromebook cursor jumping around and clicking randomly, but it doesn't seem to be a touchscreen issue (disabled touchscreen, issue persists). It goes away on reset, then starts again after using the device for a little while. Could it be a ChromeOS issue, and any ideas to fix it?
+Link: https://www.reddit.com/r/chromeos/comments/uj512c/samsung_galaxy_chromebook_cursor_jumping_around/
+
+How do I get rid of these "ghost" icons from my Chromebook shelf?
+Link: https://www.reddit.com/r/chromeos/comments/139urdm/how_do_i_get_rid_of_these_ghost_icons_from_my/
+
+Any good chrome os tablet to buy in India? The only good I can buy currently is Lenovo Chromebook Duet.
+Link: https://www.reddit.com/r/chromeos/comments/xw5uvc/any_good_chrome_os_tablet_to_buy_in_india_the/
+
+If I bought the same model chromebook, could I use it to repair a broken screen?
+Link: https://www.reddit.com/r/chromeos/comments/120n4lx/if_i_bought_the_same_model_chromebook_could_i_use/
+
+I wish Google did a better job advertising Chrome OS
+Link: https://www.reddit.com/r/chromeos/comments/3ir3aq/i_wish_google_did_a_better_job_advertising_chrome/
+
+Upcoming Chromebooks will have dark boot & recovery screens. They say that since this screen is on a read-only portion in flash, current Chromebooks cannot get it. (But I wonder if you could get it if you reflashed the entire OS 🤷‍♂️)
+Link: https://www.reddit.com/r/chromeos/comments/k4onpz/upcoming_chromebooks_will_have_dark_boot_recovery/
+
+So I made a… “Chrometop”? I like playing with weird exotic operating systems… so I’m doing an experiment: Running Chrome OS Flex on my full sized Desktop tower. It’s just as usable as any other operating system. Microsoft and Apple I think you may have a serious competitor.
+Link: https://www.reddit.com/r/chromeos/comments/subs8f/so_i_made_a_chrometop_i_like_playing_with_weird/
+
+I'm DONE trying to use my ipad for coding. For those with a split mech keyboard, ChromeOS is the way
+Link: https://www.reddit.com/r/chromeos/comments/ygcueu/im_done_trying_to_use_my_ipad_for_coding_for/
+
+Did I miss the ChromeOS 108 virtual desk app switching improvement?
+Link: https://www.reddit.com/r/chromeos/comments/zqoasi/did_i_miss_the_chromeos_108_virtual_desk_app/
+
+I am planning to switch from Windows to Chrome OS as main device. What do i need to know before the switch?
+Link: https://www.reddit.com/r/chromeos/comments/y7lllg/i_am_planning_to_switch_from_windows_to_chrome_os/
+
+Using CloudReady, put my sons account under family link and now requires me to upgrade OS, when I go to upgrade OS it says its up to date.
+Link: https://www.reddit.com/r/chromeos/comments/shdokd/using_cloudready_put_my_sons_account_under_family/
+
+I wish Google (or other Chrome OS) would do this...
+Link: https://www.reddit.com/r/chromeos/comments/8yh7ln/i_wish_google_or_other_chrome_os_would_do_this/
+
+How could i edit the "It's possible this machine has software that hasn't been verified by google?" (read replies)
+Link: https://www.reddit.com/r/chromeos/comments/10v1iej/how_could_i_edit_the_its_possible_this_machine/
+
+I need some helpful info about Snapdragon 7c and ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/yygno8/i_need_some_helpful_info_about_snapdragon_7c_and/
+
+Tried to format my USB i used for recovery using recovery utility and it's just not formatting, i can access any other computers and i dont know how to fix this. how can i?
+Link: https://www.reddit.com/r/chromeos/comments/13broy4/tried_to_format_my_usb_i_used_for_recovery_using/
+
+Sync iCloud Drive and ChromeOS Flex?
+Link: https://www.reddit.com/r/chromeos/comments/zp226c/sync_icloud_drive_and_chromeos_flex/
+
+After I run Windows 10 on a chromebook in the start of year 2022 and putting back to ChromeOS by install linux and putting the write protect screw, the diganostics app is not showing cpu/temp and setting up google play is taking very long and I got an error code 7 for no reason. Can you explain why?
+Link: https://www.reddit.com/r/chromeos/comments/zb8ddi/after_i_run_windows_10_on_a_chromebook_in_the/
+
+Does Steam Link work well on ChromeOS? What's the cheapest Chromebook it could run on?
+Link: https://www.reddit.com/r/chromeos/comments/plafsl/does_steam_link_work_well_on_chromeos_whats_the/
+
+Am I able to make my space bar the main click on my non-separated touchpad chrome OS?
+Link: https://www.reddit.com/r/chromeos/comments/vjvva1/am_i_able_to_make_my_space_bar_the_main_click_on/
+
+Downloaded VLC from the ChromeOS store and it simply will not work. No matter what I try to open I get this screen. How can I fix this?
+Link: https://www.reddit.com/r/chromeos/comments/wagj10/downloaded_vlc_from_the_chromeos_store_and_it/
+
+Im so impressed with Chrome OS lately it just keeps getting better and better. I love the look of the UI very clean etc.
+Link: https://www.reddit.com/r/chromeos/comments/wn3kiv/im_so_impressed_with_chrome_os_lately_it_just/
+
+is there any way i could install chrome os on 11th gen i5
+Link: https://www.reddit.com/r/chromeos/comments/mtuoty/is_there_any_way_i_could_install_chrome_os_on/
+
+Could I Use Chrome OS Tablet as Android Tablet Substitute + Light Productivity Device?
+Link: https://www.reddit.com/r/chromeos/comments/k38elp/could_i_use_chrome_os_tablet_as_android_tablet/
+
+Today is the day I quit ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/yd2qai/today_is_the_day_i_quit_chromeos/
+
+Play Store is crashing the entire Chrome OS system on my Galaxy Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/y6l3mw/play_store_is_crashing_the_entire_chrome_os/
+
+ASUS CX5 5400 does not auto boot upon lifting lid unless plugged in which leads me to have to constantly engage the power key to boot. This is contrary to my previous experience with ChromeOS.
+Link: https://www.reddit.com/r/chromeos/comments/ywhp4b/asus_cx5_5400_does_not_auto_boot_upon_lifting_lid/
+
+I made a window shortcut placer Chrome OS extension.
+Link: https://www.reddit.com/r/chromeos/comments/zv2pyw/i_made_a_window_shortcut_placer_chrome_os/
+
+Regular folk that got the Dragonfly Pro friday AMA
+Link: https://www.reddit.com/r/chromeos/comments/13b0vnz/regular_folk_that_got_the_dragonfly_pro_friday_ama/
+
+Can I install ChromeOS on a laptop that is not a Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/xnu44t/can_i_install_chromeos_on_a_laptop_that_is_not_a/
+
+Can i use an sd card to install an os inside? or do i need a usb stick
+Link: https://www.reddit.com/r/chromeos/comments/zwztph/can_i_use_an_sd_card_to_install_an_os_inside_or/
+
+Should I be worried about my battery?
+Link: https://www.reddit.com/r/chromeos/comments/135h8vx/should_i_be_worried_about_my_battery/
+
+How do i get rid of the productivity launcher and get the old launcher back on ChromeOS 107 because when i search chrome://flags and search productivity launcher it doesn't come up like it used to?
+Link: https://www.reddit.com/r/chromeos/comments/ys1sed/how_do_i_get_rid_of_the_productivity_launcher_and/
+
+My Chrome os rice
+Link: https://www.reddit.com/r/chromeos/comments/vetwt2/my_chrome_os_rice/
+
+Anyone know how to fix this?? my screen just went white and those weird blotches appear when I touch the screen
+Link: https://www.reddit.com/r/chromeos/comments/12q92e3/anyone_know_how_to_fix_this_my_screen_just_went/
+
+My new battlestation powered by my Google Pixelbook Go! one port handles everything from display to charging to audio thanks to the monitor stand with a built in dock. Moved from a full RX 5700 XT and R7 3700X machine to this because I love Chrome OS so much :D
+Link: https://www.reddit.com/r/chromeos/comments/leh8dr/my_new_battlestation_powered_by_my_google/
+
+Im on chrome OS version 93.0.4577.107 and i want to download Snapchat. How?
+Link: https://www.reddit.com/r/chromeos/comments/yokdzw/im_on_chrome_os_version_9304577107_and_i_want_to/
+
+My Samsung Chromebook, after replacing the chrome os, it can boot os, I try different method on creating bootable drive pls can u help
+Link: https://www.reddit.com/r/chromeos/comments/v4epht/my_samsung_chromebook_after_replacing_the_chrome/
+
+I wrote a long post about the things ChromeOS can do..
+Link: https://www.reddit.com/r/chromeos/comments/w8wski/i_wrote_a_long_post_about_the_things_chromeos_can/
+
+How to cast my ChromeOS desktop to a Linux computer?
+Link: https://www.reddit.com/r/chromeos/comments/z6x7i3/how_to_cast_my_chromeos_desktop_to_a_linux/
+
+I am sick of my Chromebook throwing all kind of errors every few hours. What do these errors even mean exactly?
+Link: https://www.reddit.com/r/chromeos/comments/1301wqt/i_am_sick_of_my_chromebook_throwing_all_kind_of/
+
+Put chrome OS flex on my old surface pro 3 and it feels like new again!!!! What are all your opinions of flex?
+Link: https://www.reddit.com/r/chromeos/comments/sxi3fh/put_chrome_os_flex_on_my_old_surface_pro_3_and_it/
+
+ChromeOS Linux terminal is amazing - Can I install it on my Linux computer?
+Link: https://www.reddit.com/r/chromeos/comments/t9qnn9/chromeos_linux_terminal_is_amazing_can_i_install/
+
+I've been using ChromeOS I guess about 3 years now and this has stumped me to this day, as in it keeps happening, at least on my device (Dell Inspiron 14 2-1) Randomly, pinned apps on the taskbar will disappear and I'll need to re-pin them from time to time. I have no explanation.
+Link: https://www.reddit.com/r/chromeos/comments/vfm2d9/ive_been_using_chromeos_i_guess_about_3_years_now/
+
+How do i find chrome os downloads folder from within a linux app?
+Link: https://www.reddit.com/r/chromeos/comments/zd7pmx/how_do_i_find_chrome_os_downloads_folder_from/
+
+I recreated Lively Wallpaper for Chrome OS
+Link: https://www.reddit.com/r/chromeos/comments/wz9pgz/i_recreated_lively_wallpaper_for_chrome_os/
+
+I wish there were media controls on the keyboard in ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/4z823j/i_wish_there_were_media_controls_on_the_keyboard/
+
+What should Google do to solve the EOL problem?
+Link: https://www.reddit.com/r/chromeos/comments/133zap1/what_should_google_do_to_solve_the_eol_problem/
+
+I am so mad. does anybody know the latest version of chromeOS where the pen sensitivity works?
+Link: https://www.reddit.com/r/chromeos/comments/ypdl5b/i_am_so_mad_does_anybody_know_the_latest_version/
+
+Ok. FIRST OF ALL. I HAVE CHROME OS, AND DEVELOPER MODE, SO WHY WHEN I DOWNLOAD A APK. IT SAYS "THIS TYPE OF FILE IS NOT SUPPORTED, LEARN MORE ABOUT DOWNLOADING FILES ON CHROME OS" WHAT DO YOU MEAN THIS TYPE OF FILE IS NOT SUPPORTED? ITS AN APK FILE. AND I HAVE DEVELOPER MODE ON. HELP PLS!!!!!!!!!
+Link: https://www.reddit.com/r/chromeos/comments/ynxpx4/ok_first_of_all_i_have_chrome_os_and_developer/
+
+Do you wish ChromeOS had a native clipboard manager? Star (but do NOT comment) this bug report!
+Link: https://www.reddit.com/r/chromeos/comments/gl8afg/do_you_wish_chromeos_had_a_native_clipboard/
+
+Is anyone else just getting tired and tired of the zoom app for chrome os? I mean come on its the most useless thing I've ever seen, it literally has no features whatsoever. I want to share my audio, no can do. I want to control screen, no can do. I want to change my frickin background, no can do.
+Link: https://www.reddit.com/r/chromeos/comments/iwz2kt/is_anyone_else_just_getting_tired_and_tired_of/
+
+I'm thinking of turning my old laptop to a Chromebook. Should I use Cloudready or Flyde OS?
+Link: https://www.reddit.com/r/chromeos/comments/s5zcup/im_thinking_of_turning_my_old_laptop_to_a/
+
+I think I'm done with Chromebooks
+Link: https://www.reddit.com/r/chromeos/comments/12v6hhy/i_think_im_done_with_chromebooks/
+
+Linux, Etcher, and the tale of why I have 2 patches of hair missing from the top of my head.
+Link: https://www.reddit.com/r/chromeos/comments/12n4y8r/linux_etcher_and_the_tale_of_why_i_have_2_patches/
+
+Fyde Os Netflix give errors, could not open (5.3)
+Link: https://www.reddit.com/r/chromeos/comments/sr6z09/fyde_os_netflix_give_errors_could_not_open_53/
+
+Is my Acer Chromebook pretty much done? I keep getting tons of errors, including random reboots and I am thinking of throwing it in the trash at this point.
+Link: https://www.reddit.com/r/chromeos/comments/12xomon/is_my_acer_chromebook_pretty_much_done_i_keep/
+
+Buy a cheap basic laptop with ChromeOS/Linux or go directly for a Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/126k1l0/buy_a_cheap_basic_laptop_with_chromeoslinux_or_go/
+
+Chrome OS laptop keeps giving the error " Could not mount cryptohome "
+Link: https://www.reddit.com/r/chromeos/comments/pt3c9j/chrome_os_laptop_keeps_giving_the_error_could_not/
+
+Do I really have to type all of, ctrl+shift+u+2015+enter, each and every time I need to have an mdash in ChromeOS? On a Mac, it's a simple option+shift+-, and even on Android, it's a simple long-hold+select on the regular small dash. Same for …, «, », and other punctuation… Isn't there a better way?
+Link: https://www.reddit.com/r/chromeos/comments/wfotb6/do_i_really_have_to_type_all_of/
+
+My impression of Chrome OS
+Link: https://www.reddit.com/r/chromeos/comments/wmlrds/my_impression_of_chrome_os/
+
+wher can I find a suitable version of chrome os for this laptop
+Link: https://www.reddit.com/r/chromeos/comments/xrk405/wher_can_i_find_a_suitable_version_of_chrome_os/
+
+Wont Chrome Os lead cause OLED burn in my laptop's display ?
+Link: https://www.reddit.com/r/chromeos/comments/y74kpa/wont_chrome_os_lead_cause_oled_burn_in_my_laptops/
+
+What can i do with my Chromebook when support finishes?
+Link: https://www.reddit.com/r/chromeos/comments/11nm455/what_can_i_do_with_my_chromebook_when_support/
+
+If i install chrome os, can i still use my old file from my previous OS?
+Link: https://www.reddit.com/r/chromeos/comments/tcijb5/if_i_install_chrome_os_can_i_still_use_my_old/
+
+Can I restore ChromeOS by turning on OS verification?
+Link: https://www.reddit.com/r/chromeos/comments/zbhn4e/can_i_restore_chromeos_by_turning_on_os/
+
+ChromeOS version and my Chrome/Lacros version
+Link: https://www.reddit.com/r/chromeos/comments/wn5d0x/chromeos_version_and_my_chromelacros_version/
+
+Will the iPad become more like ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/v5s3g7/will_the_ipad_become_more_like_chromeos/
+
+hellp i tryed to format my sd card that has linux ubuntu on it and it says this
+Link: https://www.reddit.com/r/chromeos/comments/12qev28/hellp_i_tryed_to_format_my_sd_card_that_has_linux/
+
+I can install ChromeOS on my PC? (description) CloudReady and FydeOS type systems also count. I also want to be able to download normally firefox or discord type applications. (Sorry for my English)
+Link: https://www.reddit.com/r/chromeos/comments/pbwqmw/i_can_install_chromeos_on_my_pc_description/
+
+Wife wants to get a new tablet and I talked her into a 2in1. I'm new to the OS, could use some recommendations on which one to go with. Don't need it for much besides YouTube, internet and light games and some word documents
+Link: https://www.reddit.com/r/chromeos/comments/ao0m8c/wife_wants_to_get_a_new_tablet_and_i_talked_her/
+
+Getting my first Chromebook delivered tomorrow. What is your number one tip or trick you wish you found out earlier?
+Link: https://www.reddit.com/r/chromeos/comments/w1tzzw/getting_my_first_chromebook_delivered_tomorrow/
+
+Have I broken my LCD cable?
+Link: https://www.reddit.com/r/chromeos/comments/12v20bw/have_i_broken_my_lcd_cable/
+
+How do you use a chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/133wxcq/how_do_you_use_a_chromebook/
+
+I love Chrome's new incognito skin. I wish I could make it the main skin.
+Link: https://www.reddit.com/r/chromeos/comments/46jx8u/i_love_chromes_new_incognito_skin_i_wish_i_could/
+
+Older wireless printer not supported on Chrome OS, what are my options?
+Link: https://www.reddit.com/r/chromeos/comments/v5g1hn/older_wireless_printer_not_supported_on_chrome_os/
+
+Looking for a colour laser printer that just works. I've tried various chrome OS websites but nothing seems to standout. Ideally something that's been around for a couple for a couple of years that goes on sale or that I can find used. TIA
+Link: https://www.reddit.com/r/chromeos/comments/wq4rm4/looking_for_a_colour_laser_printer_that_just/
+
+I am on a chrome os and my crosh does not work/problems with developer mode.
+Link: https://www.reddit.com/r/chromeos/comments/srm6s6/i_am_on_a_chrome_os_and_my_crosh_does_not/
+
+Is it possible to use a DVD player with a HDMI cable to play DVDs on a Chromebook? Or can I use the DVD player with my Chromebook at all?
+Link: https://www.reddit.com/r/chromeos/comments/122zcut/is_it_possible_to_use_a_dvd_player_with_a_hdmi/
+
+How could I create a script that I can run by double clicking from the Files app?
+Link: https://www.reddit.com/r/chromeos/comments/10gvow8/how_could_i_create_a_script_that_i_can_run_by/
+
+Had my school laptop since early September and I only have 23 cycles on the battery
+Link: https://www.reddit.com/r/chromeos/comments/12jp1uv/had_my_school_laptop_since_early_september_and_i/
+
+Can i use Netflix with "mobile plan" on my Chrome OS pc?
+Link: https://www.reddit.com/r/chromeos/comments/q4cnrg/can_i_use_netflix_with_mobile_plan_on_my_chrome/
+
+This mockup imagines what ChromeOS could look like with a WhiteUI system theme
+Link: https://www.reddit.com/r/chromeos/comments/f5hwnp/this_mockup_imagines_what_chromeos_could_look/
+
+I created my own Chrome OS tablet
+Link: https://www.reddit.com/r/chromeos/comments/gyi6bb/i_created_my_own_chrome_os_tablet/
+
+How can I use my Samsung Galaxy Tab as secondary display with my Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/133xrf4/how_can_i_use_my_samsung_galaxy_tab_as_secondary/
+
+I Love My Duet 5 Battery Life!
+Link: https://www.reddit.com/r/chromeos/comments/11ahyvl/i_love_my_duet_5_battery_life/
+
+My Google Foo is weak today so can someone remind me how I can disable ChromeOS showing me media controls as alerts (like these two)? TIA
+Link: https://www.reddit.com/r/chromeos/comments/ickx99/my_google_foo_is_weak_today_so_can_someone_remind/
+
+My ChromeOS WFH setup
+Link: https://www.reddit.com/r/chromeos/comments/rlh5uu/my_chromeos_wfh_setup/
+
+Help me I cannot access to google play services. I tried multiple powerwash, multiple internet connections and I tried reinstalling chromeOS with a USB Key...
+Link: https://www.reddit.com/r/chromeos/comments/uq86id/help_me_i_cannot_access_to_google_play_services_i/
+
+How can I play the music I have synced using Files app from my Google Drive? Folder is invisible for local apps, and the "Gallery" app seems far too basic
+Link: https://www.reddit.com/r/chromeos/comments/12rj7x2/how_can_i_play_the_music_i_have_synced_using/
+
+SSH into ChromeOS machines
+Link: https://www.reddit.com/r/chromeos/comments/1372bwr/ssh_into_chromeos_machines/
+
+Bought one of the cheaper models of the ACER chromebook and there are no options, content or media settings to switch to my external webcam. Did I buy an out of date chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/12amnql/bought_one_of_the_cheaper_models_of_the_acer/
+
+Phone hub appeared on Chrome OS 89 Beta, I can't connect to my phone yet tho
+Link: https://www.reddit.com/r/chromeos/comments/lb07nn/phone_hub_appeared_on_chrome_os_89_beta_i_cant/
+
+I can't restore my Linux container with a previous backup. I keep on getting this error.
+Link: https://www.reddit.com/r/chromeos/comments/12tkkl0/i_cant_restore_my_linux_container_with_a_previous/
+
+I just got a 128GB sd card for my chromebook. Do i need to format it?
+Link: https://www.reddit.com/r/chromeos/comments/12eiqvq/i_just_got_a_128gb_sd_card_for_my_chromebook_do_i/
+
+Changes coming to Chrome OS could help the Samsung Galaxy Chromebook battery life issues
+Link: https://www.reddit.com/r/chromeos/comments/fyuk3f/changes_coming_to_chrome_os_could_help_the/
+
+Can I recover the OS on my Chromebook using only my phone?
+Link: https://www.reddit.com/r/chromeos/comments/pwj3tm/can_i_recover_the_os_on_my_chromebook_using_only/
+
+How do I reconfigure my keyboard
+Link: https://www.reddit.com/r/chromeos/comments/13b73zc/how_do_i_reconfigure_my_keyboard/
+
+What's the best bang for my buck?
+Link: https://www.reddit.com/r/chromeos/comments/12jjf4s/whats_the_best_bang_for_my_buck/
+
+Some Chrome OS praise. Retired my Alienware M15x as I don't need a gaming pc anymore. Halo 5 using Xcloud preview on Samsung Plus v2 LTE chromebook. This OS has come a long way since I have last used it in 2013.
+Link: https://www.reddit.com/r/chromeos/comments/ehn9qh/some_chrome_os_praise_retired_my_alienware_m15x/
+
+Can someone help me with this? I was trying to format my usb with the chromebook recovery tool but then it was not working so i stopped trying to it. When i looked at my usb it would not let me format it or delete any of the files. I tried erasing and formatting the usb but that did not work. help
+Link: https://www.reddit.com/r/chromeos/comments/129t30t/can_someone_help_me_with_this_i_was_trying_to/
+
+Sharing My Appreciation For Chrome OS And My Pixelbook Go! I recently bought this and switched to it as my main laptop, and it's made a world of difference. I can work and play happier, for longer. Just the pure focus on the tasks instead managing the system make it such a breeze. Much love!
+Link: https://www.reddit.com/r/chromeos/comments/ivkmbc/sharing_my_appreciation_for_chrome_os_and_my/
+
+I want to get procreate on my chromebook but i'm not sure it will work, any ideas?
+Link: https://www.reddit.com/r/chromeos/comments/12qsva0/i_want_to_get_procreate_on_my_chromebook_but_im/
+
+SteelSeries Arctis Nova Pro Wireless on Chromebox: A Review
+Link: https://www.reddit.com/r/chromeos/comments/13a2xjx/steelseries_arctis_nova_pro_wireless_on_chromebox/
+
+Why does ChromeOS rename shortcuts of webpages in the launcher? I gave some links a different name, e.g. to differentiate local and remote accessible shortcuts (e.g. Plex or Home Assistant) Running Beta 104.0.5112.23 @ Lenovo Duet
+Link: https://www.reddit.com/r/chromeos/comments/vqcucl/why_does_chromeos_rename_shortcuts_of_webpages_in/
+
+When I open my browser, it automatically loads the last page(es) I was using. How can I stop that? May have been a flag I enabled...
+Link: https://www.reddit.com/r/chromeos/comments/12ynfom/when_i_open_my_browser_it_automatically_loads_the/
+
+Was initially given a missing or damaged OS. Did something’s now I’m here. Won’t do anything now. Don’t want to lose files, how do I go back to missing or damaged OS message. Thanks
+Link: https://www.reddit.com/r/chromeos/comments/x9buuq/was_initially_given_a_missing_or_damaged_os_did/
+
+Chrome OS tablet wish-list
+Link: https://www.reddit.com/r/chromeos/comments/9xd6ou/chrome_os_tablet_wishlist/
+
+Guys, I am in ChromeOS 103, and until now I can't record audio from device only. As you can see below, I can only record audio from microphone. Is their any flag to enable or something? I am saying that because until now I didn't get the new Launcher without using flag.
+Link: https://www.reddit.com/r/chromeos/comments/vo5v56/guys_i_am_in_chromeos_103_and_until_now_i_cant/
+
+How do I get my Google.com to be in light mode, while having the other NewTab page as dark?
+Link: https://www.reddit.com/r/chromeos/comments/1261wme/how_do_i_get_my_googlecom_to_be_in_light_mode/
+
+Limitation of ChromeOS and some of my workarounds
+Link: https://www.reddit.com/r/chromeos/comments/uwupwe/limitation_of_chromeos_and_some_of_my_workarounds/
+
+Google could make Chromebooks last years longer with a huge change to Chrome OS
+Link: https://www.reddit.com/r/chromeos/comments/iro13s/google_could_make_chromebooks_last_years_longer/
+
+I power down my acer Chromebook every night and at least once or twice in the night time, I hear it beep. What causes this? Is it turning on and back off for reasons beyond my mere mortal understanding?
+Link: https://www.reddit.com/r/chromeos/comments/125auyz/i_power_down_my_acer_chromebook_every_night_and/
+
+I installed chromium os on my old notebook. How to get into recovery if I don't have the refresh key?
+Link: https://www.reddit.com/r/chromeos/comments/q4rigd/i_installed_chromium_os_on_my_old_notebook_how_to/
+
+Do you wish the ChromeOS Files app showed multiple Google Drive accounts? Star (but do NOT comment) this bug report!
+Link: https://www.reddit.com/r/chromeos/comments/gkn1ww/do_you_wish_the_chromeos_files_app_showed/
+
+I've just bought & transitioned to a Chromebook. How do I check the Ram usage with graphs. With windows it was a thing called 'task manager'. But when I looked up online for ChomeOS, it seems to either want me to download chrome extensions (like 'Cog') or to go to: 'chrome://system.
+Link: https://www.reddit.com/r/chromeos/comments/vdof8r/ive_just_bought_transitioned_to_a_chromebook_how/
+
+When I awaken my Chromebook in the morning I notice when trying to open the tab for Gmail in Chrome its slow to open.
+Link: https://www.reddit.com/r/chromeos/comments/12qnwkt/when_i_awaken_my_chromebook_in_the_morning_i/
+
+I am writing a book on ChromeOS - I need ideas
+Link: https://www.reddit.com/r/chromeos/comments/vxfm9y/i_am_writing_a_book_on_chromeos_i_need_ideas/
+
+woke my chromebook (on beta 98) up from sleep and got a survey asking me how satisfied I am with unlocking my chromebook, maybe it has something to do with the upcoming wear os integration for unlocking your chromebook...
+Link: https://www.reddit.com/r/chromeos/comments/s1tgqx/woke_my_chromebook_on_beta_98_up_from_sleep_and/
+
+My Samsung 4 Chromebook when I press power only blink to power than shut off. What possibly go wrong ?
+Link: https://www.reddit.com/r/chromeos/comments/126994h/my_samsung_4_chromebook_when_i_press_power_only/
+
+Hey guys, so I've had mixed experiences with office suites on ChromeOS, could you guys tell me what you use everyday? I've tried MS office online, MS office on Android with a school Microsoft account, docs, Libre, wps, onlyoffice a couple other Android apps, and I'm really confused....
+Link: https://www.reddit.com/r/chromeos/comments/l42r9c/hey_guys_so_ive_had_mixed_experiences_with_office/
+
+Here's how Google could turn Chrome OS into a real platform
+Link: https://www.reddit.com/r/chromeos/comments/kwm8hb/heres_how_google_could_turn_chrome_os_into_a_real/
+
+What Is True? Did I Get a Bad Tip? Someone Says COS Cannot Run Majority of Android Applications. - Android on ChromeOS Question -
+Link: https://www.reddit.com/r/chromeos/comments/vec4px/what_is_true_did_i_get_a_bad_tip_someone_says_cos/
+
+Im losing my f**cking mind. When using an SD card, how do I MOVE the files, instead of copying and pasting?
+Link: https://www.reddit.com/r/chromeos/comments/1222k2p/im_losing_my_fcking_mind_when_using_an_sd_card/
+
+Do people actually play games on chrome OS? Working on a COD Zombies Style Game I'll release for free for Linux and want to know if I should put in the effort to support fully Chrome OS as well. Any insights on Chrome OS gaming appreciated. Game progress :D :
+Link: https://www.reddit.com/r/chromeos/comments/uw5n9c/do_people_actually_play_games_on_chrome_os/
+
+I have to factory reset my Chromebook again
+Link: https://www.reddit.com/r/chromeos/comments/11z1nnp/i_have_to_factory_reset_my_chromebook_again/
+
+If there's no Chromebook that meets my needs, is a PC running Chrome OS Flex (once stable) a good substitute?
+Link: https://www.reddit.com/r/chromeos/comments/uf2f1a/if_theres_no_chromebook_that_meets_my_needs_is_a/
+
+This is odd....Chrome OS Flex hits v101 Stable before my Chromebook does!
+Link: https://www.reddit.com/r/chromeos/comments/uhwff4/this_is_oddchrome_os_flex_hits_v101_stable_before/
+
+Without moving my ChromeOS PC, I fluctuate from relatively strong wifi signal to "no signal disconnection" > 30 times per hour. No other devices (android or windows) has those issues.
+Link: https://www.reddit.com/r/chromeos/comments/p8y9v0/without_moving_my_chromeos_pc_i_fluctuate_from/
+
+New to ChromeOS, anything I should know? (Useful keyboard shortcuts, settings, etc.)
+Link: https://www.reddit.com/r/chromeos/comments/vz8f53/new_to_chromeos_anything_i_should_know_useful/
+
+advice please? hopefully a fix that doesn't mean erasing?
+Link: https://www.reddit.com/r/chromeos/comments/12lld3g/advice_please_hopefully_a_fix_that_doesnt_mean/
+
+Lenovo ideapad 5i fan noise - am I stuck with it?
+Link: https://www.reddit.com/r/chromeos/comments/136mxuf/lenovo_ideapad_5i_fan_noise_am_i_stuck_with_it/
+
+Is there any way for me to mirror my screen to my iphone? My screen broke but i still need it for JavaScript
+Link: https://www.reddit.com/r/chromeos/comments/12mho9w/is_there_any_way_for_me_to_mirror_my_screen_to_my/
+
+Help please, Idk how to disable this sh!t, since it is doing that my pc is slower... I powerwashed my Duet and keeps doing that. Its very annoying
+Link: https://www.reddit.com/r/chromeos/comments/12det6h/help_please_idk_how_to_disable_this_sht_since_it/
+
+Why I need to do "powerwash" if I want to get back to "Stable channel"??
+Link: https://www.reddit.com/r/chromeos/comments/133gz6c/why_i_need_to_do_powerwash_if_i_want_to_get_back/
+
+Google Community forums don't even list ChromeOS as an option
+Link: https://www.reddit.com/r/chromeos/comments/11q5dc4/google_community_forums_dont_even_list_chromeos/
+
+Discovery: Using light theme on Chrome OS saves battery because then I don't have to turn my brightness up nearly as high
+Link: https://www.reddit.com/r/chromeos/comments/odttih/discovery_using_light_theme_on_chrome_os_saves/
+
+Chrome OS could not sync your data because your account sign-in details are out of date? Anyone know how to fix this issue?
+Link: https://www.reddit.com/r/chromeos/comments/qpip44/chrome_os_could_not_sync_your_data_because_your/
+
+Is it possible for a Chromebook to be infected with a rootkit or other rootkit like attacks?
+Link: https://www.reddit.com/r/chromeos/comments/12ay16y/is_it_possible_for_a_chromebook_to_be_infected/
+
+Really simple problem that is making it so i cannot downgrade my chromebook
+Link: https://www.reddit.com/r/chromeos/comments/12k6equ/really_simple_problem_that_is_making_it_so_i/
+
+Messed up again wiped the os installed my own but legacy mode and boot from usb reset so I can no longer do anything it tells me to use recovery image but I’m unable to use that as I have no other computer or usb
+Link: https://www.reddit.com/r/chromeos/comments/sc2lk8/messed_up_again_wiped_the_os_installed_my_own_but/
+
+Should I still use old Chromebook with outdated ChromeOs
+Link: https://www.reddit.com/r/chromeos/comments/tj7qsz/should_i_still_use_old_chromebook_with_outdated/
+
+I have a question about screen recording on Chrome OS. Why can't I record just the audio that is playing on my chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/p4iyy6/i_have_a_question_about_screen_recording_on/
+
+Spin 714 speaker crackling finally gone!
+Link: https://www.reddit.com/r/chromeos/comments/12ztfys/spin_714_speaker_crackling_finally_gone/
+
+If I’d benchmark Windows vs ChromeOS. How would I go about doing so? I want to test as objectively as possible
+Link: https://www.reddit.com/r/chromeos/comments/vebqef/if_id_benchmark_windows_vs_chromeos_how_would_i/
+
+I INSTALLLED CHROMEOS Windows And Ubuntu 20.04 LTS ON MY DELL INPIRON14 3000 series. When I Boot Into Chrome OS It start a setup Screen and I setup ahed and when I want To connect Wifi It dosen't Show any wifi in list. I can't bypass the setup without connecting the wifi. What Shoud I do Help me.
+Link: https://www.reddit.com/r/chromeos/comments/nbdb7x/i_installled_chromeos_windows_and_ubuntu_2004_lts/
+
+Cant reinstall ChromeOS back to samsung chromebook after deleting my chromeOS to change operating systems.
+Link: https://www.reddit.com/r/chromeos/comments/w0jcw7/cant_reinstall_chromeos_back_to_samsung/
+
+ChromeOS 101+102 killed my android apps.
+Link: https://www.reddit.com/r/chromeos/comments/v1uj12/chromeos_101102_killed_my_android_apps/
+
+My spec wish list for a Pixel Slate if Google makes one
+Link: https://www.reddit.com/r/chromeos/comments/trui4v/my_spec_wish_list_for_a_pixel_slate_if_google/
+
+What are your thoughts about Chromebooks EOL?
+Link: https://www.reddit.com/r/chromeos/comments/12og32w/what_are_your_thoughts_about_chromebooks_eol/
+
+Is there any way to disable anti-aliasing and font-smoothing on ChromeOS, systemwide? The `{ -webkit-font-smoothing: none; }` of CSS seems to have zero effect in the more recent Chrome and Chromium? Do I have to switch to Windows to get sharp-looking fonts systemwide?
+Link: https://www.reddit.com/r/chromeos/comments/wadss9/is_there_any_way_to_disable_antialiasing_and/
+
+With Linux support coming to Chrome OS, does that mean I could run Minecraft on a Pixelbook?
+Link: https://www.reddit.com/r/chromeos/comments/8iiyu7/with_linux_support_coming_to_chrome_os_does_that/
+
+thanks to u/uaos for suggesting me Fyde os. It's running on my pentium g630 pc just fine and it feels more fast as i used a ssd with it :) very happy with the result
+Link: https://www.reddit.com/r/chromeos/comments/lotyyl/thanks_to_uuaos_for_suggesting_me_fyde_os_its/
+
+I recently bought an Asus Google meet and wanted to use it as a Linux server. I got it super cheap and when I tried powering it on I found out why. Even with OS verification turned off it is forcing me to the enterprise enrollment screen. Is there anyway to bypass this?
+Link: https://www.reddit.com/r/chromeos/comments/w00jug/i_recently_bought_an_asus_google_meet_and_wanted/
+
+BIG problem. Every time I reset my password Chromebook is telling me wrong password. I've done this about five times now. I recover succesfully and new password seemingly takes but then don't work after signing out or trying to change settings. I know I'm not crazy, they are copy pasted
+Link: https://www.reddit.com/r/chromeos/comments/127mux0/big_problem_every_time_i_reset_my_password/
+
+Theoretically, could Google enhance ChromeOS so that it could run AppImage programs on top of its Linux-like kernel?
+Link: https://www.reddit.com/r/chromeos/comments/kc31re/theoretically_could_google_enhance_chromeos_so/
+
+Duet 3 Case Options?
+Link: https://www.reddit.com/r/chromeos/comments/12r2bm2/duet_3_case_options/
+
+Should I install Chrome OS on my Low End Laptop??
+Link: https://www.reddit.com/r/chromeos/comments/on97ay/should_i_install_chrome_os_on_my_low_end_laptop/
+
+Hi, i believe i clicked a weird link and after i clicked it my chromebook started acting on its own. I belive i Might have Been hacked.
+Link: https://www.reddit.com/r/chromeos/comments/12iui4r/hi_i_believe_i_clicked_a_weird_link_and_after_i/
+
+Ive cleared chache and data, ive removed and reinstalled it, ive shut my chromebook off for 2 days, but whenever i open the google play store it gives me this for 3-5 mins before crashing (was the same for all my android apps too)
+Link: https://www.reddit.com/r/chromeos/comments/11xsvjp/ive_cleared_chache_and_data_ive_removed_and/
+
+chromebook experts... can I organize files if I buy chromebook instead of windows? Also, could I connect my drone and an external hard drive and transfer video from my drone to external hard drive? Thanks in advance
+Link: https://www.reddit.com/r/chromeos/comments/u7e3yi/chromebook_experts_can_i_organize_files_if_i_buy/
+
+I cant sign in to google "this account already exists on your device"
+Link: https://www.reddit.com/r/chromeos/comments/13cxuv8/i_cant_sign_in_to_google_this_account_already/
+
+I only just realized today but my school Chromebook (DELL Chromebook 3100 2022) recently received Android 11, while my Chromebook duet 1st gen I bought in January 2021 is still on Android 9 the last time I checked, my guess is Google is focusing on rolling out ARCVM to newer devices.
+Link: https://www.reddit.com/r/chromeos/comments/yf0h76/i_only_just_realized_today_but_my_school/
+
+Can't Set New Chromebook as Trusted Device
+Link: https://www.reddit.com/r/chromeos/comments/11ni9u3/cant_set_new_chromebook_as_trusted_device/
+
+Why can I use a stylus in the OneNote Web version on every device but my Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/xoq4pb/why_can_i_use_a_stylus_in_the_onenote_web_version/
+
+Why can't I transfer music from my chromebook to an android device?
+Link: https://www.reddit.com/r/chromeos/comments/2zsbgp/why_cant_i_transfer_music_from_my_chromebook_to/
+
+Can't stream apps over hotspot connection between PSP/Pixelbook. Bug or feature? I litterally am on the same network. Also, the recent apps section shows the apps' icons correctly. It just can't open them. Being able to stream apps over hotspot would be a very handy mobile feature. Coming soon?
+Link: https://www.reddit.com/r/chromeos/comments/12yae58/cant_stream_apps_over_hotspot_connection_between/
+
+Google Sheets etc. are displayed in Japanese while device language and everything else are set to English. I tried changing it in the apps themselvesx but it just redirects me to the display language screen. I do speak Japanese, but prefer my second language, English. Anyone know how to fix this?
+Link: https://www.reddit.com/r/chromeos/comments/wsdzg0/google_sheets_etc_are_displayed_in_japanese_while/
+
+Is it worth it?As this would be my first device and I am also using Windows
+Link: https://www.reddit.com/r/chromeos/comments/11s32fv/is_it_worth_itas_this_would_be_my_first_device/
+
+Why am I randomly getting a message saying "Device space critically low/Device low on disk space?"
+Link: https://www.reddit.com/r/chromeos/comments/ztu8e0/why_am_i_randomly_getting_a_message_saying_device/
+
+I,ve been using chromebook for a year now but i still cant figured out why my chromebook doesnt have play store on it. Can someone help me
+Link: https://www.reddit.com/r/chromeos/comments/y30e59/ive_been_using_chromebook_for_a_year_now_but_i/
+
+Does this Javascript emulation web site work for anyone else or is it just my device Lenovo Duet?
+Link: https://www.reddit.com/r/chromeos/comments/v45upe/does_this_javascript_emulation_web_site_work_for/
+
+Help. I have tried to make this video in Power Director so many times. I can't do it even on the lowest settings. Just in case it was the file type of the images and videos I was using, I converted everything to mp4 and jpg. I still can't get it to work.
+Link: https://www.reddit.com/r/chromeos/comments/12fw61q/help_i_have_tried_to_make_this_video_in_power/
+
+What exactly happens when you "Install Linux" on your Chromebook? Is it running in a virtual machine of sorts or is it native on the device? I'm finding it difficult to do research on this cause it's just tutorials on how to do it.
+Link: https://www.reddit.com/r/chromeos/comments/ym93t5/what_exactly_happens_when_you_install_linux_on/
+
+missing "Set" in Connection device. is that normal? can't find my phone or search for it
+Link: https://www.reddit.com/r/chromeos/comments/s0jsh8/missing_set_in_connection_device_is_that_normal/
+
+Roblox detecting my Chromebook as a mobile device.
+Link: https://www.reddit.com/r/chromeos/comments/11zou16/roblox_detecting_my_chromebook_as_a_mobile_device/
+
+Guys, I am in ChromeOS 103, and until now I can't record audio from device only. As you can see below, I can only record audio from microphone. Is their any flag to enable or something? I am saying that because until now I didn't get the new Launcher without using flag.
+Link: https://www.reddit.com/r/chromeos/comments/vo5v56/guys_i_am_in_chromeos_103_and_until_now_i_cant/
+
+103 Stable bug - Screencast "Can't record in your device language" Even though it's set as UK English.
+Link: https://www.reddit.com/r/chromeos/comments/voo2he/103_stable_bug_screencast_cant_record_in_your/
+
+I have a question about screen recording on Chrome OS. Why can't I record just the audio that is playing on my chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/p4iyy6/i_have_a_question_about_screen_recording_on/
+
+why in signed in devices is my new chromebook called google mediatek with numbers?
+Link: https://www.reddit.com/r/chromeos/comments/v0gda6/why_in_signed_in_devices_is_my_new_chromebook/
+
+Can't resize certain Android apps on your Chromebook? Here's why
+Link: https://www.reddit.com/r/chromeos/comments/10uko5o/cant_resize_certain_android_apps_on_your/
+
+Is USB-A on my device 3.0 or 2.0?
+Link: https://www.reddit.com/r/chromeos/comments/10dwz63/is_usba_on_my_device_30_or_20/
+
+Why can't I print ??
+Link: https://www.reddit.com/r/chromeos/comments/118h3ro/why_cant_i_print/
+
+Can I locate a Chromebook using Find My Device?
+Link: https://www.reddit.com/r/chromeos/comments/10kh2va/can_i_locate_a_chromebook_using_find_my_device/
+
+Why some Chromebooks don't allow booting up the device with a password?*
+Link: https://www.reddit.com/r/chromeos/comments/y751d3/why_some_chromebooks_dont_allow_booting_up_the/
+
+Why does my device make me sign into google every time I startup?
+Link: https://www.reddit.com/r/chromeos/comments/ry0dk5/why_does_my_device_make_me_sign_into_google_every/
+
+Why is this device so expensive compared to this?
+Link: https://www.reddit.com/r/chromeos/comments/xcro2a/why_is_this_device_so_expensive_compared_to_this/
+
+Why can't I open my docx documents with google docs in the native file explorer?
+Link: https://www.reddit.com/r/chromeos/comments/wn1v2m/why_cant_i_open_my_docx_documents_with_google/
+
+just got my lenovo duet such an awesome device
+Link: https://www.reddit.com/r/chromeos/comments/npvyde/just_got_my_lenovo_duet_such_an_awesome_device/
+
+Why can't I drag and drop folders or files in the Files app?
+Link: https://www.reddit.com/r/chromeos/comments/107xxk5/why_cant_i_drag_and_drop_folders_or_files_in_the/
+
+If I lose my device or get robbed, I can just log out from my account and my data will be safe?
+Link: https://www.reddit.com/r/chromeos/comments/svjlsh/if_i_lose_my_device_or_get_robbed_i_can_just_log/
+
+I can't restore my Linux container with a previous backup. I keep on getting this error.
+Link: https://www.reddit.com/r/chromeos/comments/12tkkl0/i_cant_restore_my_linux_container_with_a_previous/
+
+Tried to format my USB i used for recovery using recovery utility and it's just not formatting, i can access any other computers and i dont know how to fix this. how can i?
+Link: https://www.reddit.com/r/chromeos/comments/13broy4/tried_to_format_my_usb_i_used_for_recovery_using/
+
+My last chromebook was the Toshiba chromebook 2. Any recommendations for a similar modern device?
+Link: https://www.reddit.com/r/chromeos/comments/yameew/my_last_chromebook_was_the_toshiba_chromebook_2/
+
+Annoying Youtube glitch. Videos are glitching for a few milliseconds and jumping/stuttering backwards/forwards. This isn't happening with any other streaming service. I powerwashed and restarted my device (Samsung chromebook xe513c24). I just got this computer new, so this is extremely frustrating.
+Link: https://www.reddit.com/r/chromeos/comments/suqqxb/annoying_youtube_glitch_videos_are_glitching_for/
+
+What are your thoughts about Chromebooks EOL?
+Link: https://www.reddit.com/r/chromeos/comments/12og32w/what_are_your_thoughts_about_chromebooks_eol/
+
+Can anyone tell me why my Chromebook displays pictures like this randomly when in full screen mode in Google Photos? Random. Never happened to me using my old windows laptop. Don't know if it does it in Gallery too, no pics on hd (new, first Chromebook) idk if just browser based or broader issue.
+Link: https://www.reddit.com/r/chromeos/comments/xtwnu4/can_anyone_tell_me_why_my_chromebook_displays/
+
+Linux, Etcher, and the tale of why I have 2 patches of hair missing from the top of my head.
+Link: https://www.reddit.com/r/chromeos/comments/12n4y8r/linux_etcher_and_the_tale_of_why_i_have_2_patches/
+
+Anyone know how to fix this?? my screen just went white and those weird blotches appear when I touch the screen
+Link: https://www.reddit.com/r/chromeos/comments/12q92e3/anyone_know_how_to_fix_this_my_screen_just_went/
+
+Why can't I activate Pin Unlock on my Chrome book
+Link: https://www.reddit.com/r/chromeos/comments/v7qkyu/why_cant_i_activate_pin_unlock_on_my_chrome_book/
+
+Why Cant I enable adb?
+Link: https://www.reddit.com/r/chromeos/comments/10c4z6i/why_cant_i_enable_adb/
+
+Handwriting + keyboard app??
+Link: https://www.reddit.com/r/chromeos/comments/12sk4me/handwriting_keyboard_app/
+
+Cant' say I remember the last time a reviewer was this positive about CrhomeOS, and wished it was on the device being reviewed.
+Link: https://www.reddit.com/r/chromeos/comments/ml3anl/cant_say_i_remember_the_last_time_a_reviewer_was/
+
+I'm just trying to delete a file, why is this happening and how do I fix it?
+Link: https://www.reddit.com/r/chromeos/comments/11tup2h/im_just_trying_to_delete_a_file_why_is_this/
+
+Any Dragonfly Pro users out there yet?
+Link: https://www.reddit.com/r/chromeos/comments/138637o/any_dragonfly_pro_users_out_there_yet/
+
+Why I love my ChromeOS devices
+Link: https://www.reddit.com/r/chromeos/comments/gu8a9l/why_i_love_my_chromeos_devices/
+
+Everytime I wake my device (HP x360 14, i5) from sleep, I get these notification . Why?
+Link: https://www.reddit.com/r/chromeos/comments/ddqdr3/everytime_i_wake_my_device_hp_x360_14_i5_from/
+
+Anyone using Apple Music on a Chromebook? (I know) The app on my Pixelbook Go is messed up, wondering if there's a solution. Yes, I know I'm using an Apple product on a non-Apple device and that's never gonna be optimal, but I have Apple Music and I have a Chromebook, so just looking for some help.
+Link: https://www.reddit.com/r/chromeos/comments/m34ybd/anyone_using_apple_music_on_a_chromebook_i_know/
+
+Every time i move my screen forwards or backwards my laptop just turns black all of a sudden. Can someone help with this and maybe explain why!!
+Link: https://www.reddit.com/r/chromeos/comments/yg0fz8/every_time_i_move_my_screen_forwards_or_backwards/
+
+My family has 3 chrome books that will connect to the Wi-Fi but won’t connect to the internet. All of our other devices can access the internet. Please help.
+Link: https://www.reddit.com/r/chromeos/comments/yobhod/my_family_has_3_chrome_books_that_will_connect_to/
+
+I don't get it, why can't ChromeOS just let android handle printers that chromeos isn't compatible with>
+Link: https://www.reddit.com/r/chromeos/comments/pj25jb/i_dont_get_it_why_cant_chromeos_just_let_android/
+
+Well this sucks.
+Link: https://www.reddit.com/r/chromeos/comments/1399oeg/well_this_sucks/
+
+I can't install apps on my chromebook all of the sudden. I used to be able to
+Link: https://www.reddit.com/r/chromeos/comments/112xfcy/i_cant_install_apps_on_my_chromebook_all_of_the/
+
+why is it so difficult to recover your password and login when you supposedly can't remember your password?
+Link: https://www.reddit.com/r/chromeos/comments/yscoq3/why_is_it_so_difficult_to_recover_your_password/
+
+Missing Factory Reset Option when Deprovisioning Chromebook(s). We’re managing multiple sites but just wondering why this one on the left doesn’t have that option.
+Link: https://www.reddit.com/r/chromeos/comments/10sbpau/missing_factory_reset_option_when_deprovisioning/
+
+Why can't I use a runner file to launch a Linux game from Humble bundle?
+Link: https://www.reddit.com/r/chromeos/comments/z3njh6/why_cant_i_use_a_runner_file_to_launch_a_linux/
+
+I just got a 128GB sd card for my chromebook. Do i need to format it?
+Link: https://www.reddit.com/r/chromeos/comments/12eiqvq/i_just_got_a_128gb_sd_card_for_my_chromebook_do_i/
+
+When I use free public Wi-Fi, like a restaurants, why do I often get this browser error? I cant find
+Link: https://www.reddit.com/r/chromeos/comments/y3qkzu/when_i_use_free_public_wifi_like_a_restaurants/
+
+The wifi network that I am using only establishes a stable connection with my chromebook laptop and not with any of my other devices? Why is this?
+Link: https://www.reddit.com/r/chromeos/comments/o9vdn4/the_wifi_network_that_i_am_using_only_establishes/
+
+Why does my Chromebook send some weird links every time I copy and paste an image?
+Link: https://www.reddit.com/r/chromeos/comments/1255aq1/why_does_my_chromebook_send_some_weird_links/
+
+Can't use multiple sign-ins with my managed account after stable v111
+Link: https://www.reddit.com/r/chromeos/comments/11nym40/cant_use_multiple_signins_with_my_managed_account/
+
+Passkeys on ChromeOS: can we use them to unlock your Chromebook? I don't see the option, it's either the Google Account password or Chromebook pin. Also, in the Google Developers site ChromeOS is not even mentioned. Chrome in ChromeOS supports them, but no ChromeOS itself.
+Link: https://www.reddit.com/r/chromeos/comments/1394lbi/passkeys_on_chromeos_can_we_use_them_to_unlock/
+
+So I (sadly) just found out I can't watch any streaming service above 1080p on my 4K Galaxy Chromebook....
+Link: https://www.reddit.com/r/chromeos/comments/r0xcr5/so_i_sadly_just_found_out_i_cant_watch_any/
+
+My HP Chromebook x360 just got erased & I have no clue why?
+Link: https://www.reddit.com/r/chromeos/comments/xg4u8j/my_hp_chromebook_x360_just_got_erased_i_have_no/
+
+why is there a linux processing thing here, i disabled linux in my chromebook
+Link: https://www.reddit.com/r/chromeos/comments/1165k3t/why_is_there_a_linux_processing_thing_here_i/
+
+I think I'm done with Chromebooks
+Link: https://www.reddit.com/r/chromeos/comments/12v6hhy/i_think_im_done_with_chromebooks/
+
+Why cant I install steam????
+Link: https://www.reddit.com/r/chromeos/comments/xtbe53/why_cant_i_install_steam/
+
+How to run an Acer Spin 713 Chromebook (2021) "Fanless"?
+Link: https://www.reddit.com/r/chromeos/comments/137v3vd/how_to_run_an_acer_spin_713_chromebook_2021/
+
+Acer Spin 714 stopped detecting external monitor - why?
+Link: https://www.reddit.com/r/chromeos/comments/12om53g/acer_spin_714_stopped_detecting_external_monitor/
+
+Lost my iPad Mini. Considering replacing with ChromeOS device with USI
+Link: https://www.reddit.com/r/chromeos/comments/uuomz3/lost_my_ipad_mini_considering_replacing_with/
+
+Can someone give my their opinions on the "specs" of this device?
+Link: https://www.reddit.com/r/chromeos/comments/xdkuvv/can_someone_give_my_their_opinions_on_the_specs/
+
+Why Is My Lenovo Flex 3 CB Still only on Chrome 108?
+Link: https://www.reddit.com/r/chromeos/comments/10ym24z/why_is_my_lenovo_flex_3_cb_still_only_on_chrome/
+
+Just got my new Asus CX5. Are these problems?
+Link: https://www.reddit.com/r/chromeos/comments/11ztuf3/just_got_my_new_asus_cx5_are_these_problems/
+
+I can't install STARC onto my chromebook from flathub.
+Link: https://www.reddit.com/r/chromeos/comments/10m7l8m/i_cant_install_starc_onto_my_chromebook_from/
+
+Is it just me or my Chromebook Duet (1), feels smoother with ChromeOS 110.
+Link: https://www.reddit.com/r/chromeos/comments/11482wm/is_it_just_me_or_my_chromebook_duet_1_feels/
+
+How can I set my Chromebook up with my NAS devices?
+Link: https://www.reddit.com/r/chromeos/comments/y5toqi/how_can_i_set_my_chromebook_up_with_my_nas_devices/
+
+Chromebook can't find android phone under connected devices
+Link: https://www.reddit.com/r/chromeos/comments/sxu1fx/chromebook_cant_find_android_phone_under/
+
+Want enhanced Quake 1 on your Chromebook? Here's how.
+Link: https://www.reddit.com/r/chromeos/comments/12dvym7/want_enhanced_quake_1_on_your_chromebook_heres_how/
+
+can't upload screenshots in Google docs with my chromebook
+Link: https://www.reddit.com/r/chromeos/comments/108zu47/cant_upload_screenshots_in_google_docs_with_my/
+
+playing audio through jack while casting video to chromecast dongle.
+Link: https://www.reddit.com/r/chromeos/comments/11xcde4/playing_audio_through_jack_while_casting_video_to/
+
+I can't activate the backlight on the keyboard of my Acer Spin 513
+Link: https://www.reddit.com/r/chromeos/comments/zvou45/i_cant_activate_the_backlight_on_the_keyboard_of/
+
+Just Purchased My First Chromebook - A 2017 Pixelbook
+Link: https://www.reddit.com/r/chromeos/comments/106dh2d/just_purchased_my_first_chromebook_a_2017/
+
+Asking for recommendations: I Asus chromebook C423 in the past, it fits my needs, but the device is overall slow. Would it make a significant difference if I buy a high end chromebook? If yes, any recommendations? I do not want to break the bank, and I do not care about touch screen..
+Link: https://www.reddit.com/r/chromeos/comments/t2djkg/asking_for_recommendations_i_asus_chromebook_c423/
+
+I'm losing my f***ing mind. WHY can't I move a folder on chromebook? This has been a spotty problem in the past, but eventually I got it. I even moved a couple folders prior to this stupid problem. Every time I move it this stupid fucking "select square" or w/e it is appears. It never grabs it.
+Link: https://www.reddit.com/r/chromeos/comments/s03su3/im_losing_my_fing_mind_why_cant_i_move_a_folder/
+
+Why there is a "Clear all" button when you recive a notification? it's just one notification.
+Link: https://www.reddit.com/r/chromeos/comments/105cgc1/why_there_is_a_clear_all_button_when_you_recive_a/
+
+I can't get the stylus out of my ASUS C214 Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/xxzgva/i_cant_get_the_stylus_out_of_my_asus_c214/
+
+The new Android Taskbar is just a smooth ChromeOS 😅. Why Google is not giving much attention to Chromebooks with optimizations just like android, and why they want to implement Android in large screens when they have ChromeOS (Which is designed for Large screens and it has Android apps)
+Link: https://www.reddit.com/r/chromeos/comments/108k9tq/the_new_android_taskbar_is_just_a_smooth_chromeos/
+
+Why is my Chromebook so hot?
+Link: https://www.reddit.com/r/chromeos/comments/115ie0n/why_is_my_chromebook_so_hot/
+
+My Chromebook (Pixelbook) says I'm not an authorized user of the device?
+Link: https://www.reddit.com/r/chromeos/comments/v7hc2b/my_chromebook_pixelbook_says_im_not_an_authorized/
+
+Why can’t my chromebook connect to wifi
+Link: https://www.reddit.com/r/chromeos/comments/11ek51l/why_cant_my_chromebook_connect_to_wifi/
+
+"Push" (Handoff alt) coming to ChromeOS soon?
+Link: https://www.reddit.com/r/chromeos/comments/139wtsm/push_handoff_alt_coming_to_chromeos_soon/
+
+Do I have or do I have not a stylus? - I feel dumb
+Link: https://www.reddit.com/r/chromeos/comments/12qooxk/do_i_have_or_do_i_have_not_a_stylus_i_feel_dumb/
+
+Lenovo Duet 5 vs Surface Go 3
+Link: https://www.reddit.com/r/chromeos/comments/1382ln8/lenovo_duet_5_vs_surface_go_3/
+
+Review of Lenovo Duet 3 (with USI 2 stylus)!
+Link: https://www.reddit.com/r/chromeos/comments/10d68dq/review_of_lenovo_duet_3_with_usi_2_stylus/
+
+All my apps (Including the store) won't open, they just stay on this screen without loading. I have restarted and shut off and on my Chromebook but nothing is working, it was working perfectly a few days ago. The shortcuts on my shelf still work.
+Link: https://www.reddit.com/r/chromeos/comments/11oktku/all_my_apps_including_the_store_wont_open_they/
+
+Chrome Crashing since update Ctrl + P
+Link: https://www.reddit.com/r/chromeos/comments/12dndic/chrome_crashing_since_update_ctrl_p/
+
+chrome os mac address causing internet issues?
+Link: https://www.reddit.com/r/chromeos/comments/118ixpt/chrome_os_mac_address_causing_internet_issues/
+
+can someone tell me why my Acer C720 Chromebook keeps doing this.. Even for ChromeOS supported apps..
+Link: https://www.reddit.com/r/chromeos/comments/10s13ky/can_someone_tell_me_why_my_acer_c720_chromebook/
+
+Gaming Chromebook: Its more like a console than a PC...
+Link: https://www.reddit.com/r/chromeos/comments/zs2ykp/gaming_chromebook_its_more_like_a_console_than_a/
+
+My x2 11 just updated to chromeOS 109, still on android 9, sigh
+Link: https://www.reddit.com/r/chromeos/comments/10htu60/my_x2_11_just_updated_to_chromeos_109_still_on/
+
+Is an expired ChromeOS still safe, since the marketshare is so low and the OS is so locked down that means the chances of malware getting in are so low. That means once the good Chromebooks like pixelbooks expire but still perfectly usable then they don't have to be junked
+Link: https://www.reddit.com/r/chromeos/comments/12kmhb5/is_an_expired_chromeos_still_safe_since_the/
+
+Is there a way I can get chrome to continue to play audio when my device is locked? Android apps work fine with this.
+Link: https://www.reddit.com/r/chromeos/comments/uzlhyg/is_there_a_way_i_can_get_chrome_to_continue_to/
+
+Feature request - FIDO2 security key to login ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/121jbg3/feature_request_fido2_security_key_to_login/
+
+Why isnt there a "properties" button when i right click on my files?
+Link: https://www.reddit.com/r/chromeos/comments/10r5lby/why_isnt_there_a_properties_button_when_i_right/
+
+Lacros for eol and other related questions
+Link: https://www.reddit.com/r/chromeos/comments/12mxalx/lacros_for_eol_and_other_related_questions/
+
+Why does NFL.com treat my chromebook as a mobile device?
+Link: https://www.reddit.com/r/chromeos/comments/1tbzu0/why_does_nflcom_treat_my_chromebook_as_a_mobile/
+
+Android Apps can No Longer See My USB Drive in ChromeOS 111
+Link: https://www.reddit.com/r/chromeos/comments/122m43p/android_apps_can_no_longer_see_my_usb_drive_in/
+
+Why does this keep on happening trying to sign into my chromebook? I recently decided to factory reset my chromebook and tried logging back in with my google account but I kept on getting this error, does anyone know how to fix it?
+Link: https://www.reddit.com/r/chromeos/comments/105vu4f/why_does_this_keep_on_happening_trying_to_sign/
+
+Play files are read only. Can I change it?
+Link: https://www.reddit.com/r/chromeos/comments/12rvrz8/play_files_are_read_only_can_i_change_it/
+
+Why do I love my Chromebook? Reason 1: It's a Linux desktop
+Link: https://www.reddit.com/r/chromeos/comments/yj5rk3/why_do_i_love_my_chromebook_reason_1_its_a_linux/
+
+Lenovo ideapad 5i fan noise - am I stuck with it?
+Link: https://www.reddit.com/r/chromeos/comments/136mxuf/lenovo_ideapad_5i_fan_noise_am_i_stuck_with_it/
+
+Why is my ram usage so high? I'm not running anything but this cog- system inifo viewer program?
+Link: https://www.reddit.com/r/chromeos/comments/zz26ue/why_is_my_ram_usage_so_high_im_not_running/
+
+Gave up on Bluetooth audio
+Link: https://www.reddit.com/r/chromeos/comments/1245uu9/gave_up_on_bluetooth_audio/
+
+Could this be why it's not switching to tablet mode and disabling keyboard? it's refurbished just got it in and tried everything I can find with no fix.
+Link: https://www.reddit.com/r/chromeos/comments/z8981g/could_this_be_why_its_not_switching_to_tablet/
+
+Google Drive and cloud storage is "too expensive", with one exception...
+Link: https://www.reddit.com/r/chromeos/comments/12qubv8/google_drive_and_cloud_storage_is_too_expensive/
+
+Limit battery charge?
+Link: https://www.reddit.com/r/chromeos/comments/12g11yg/limit_battery_charge/
+
+Anyway to cast youtube from my phone to my chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/11d3eq7/anyway_to_cast_youtube_from_my_phone_to_my/
+
+Why the recycle bin is just an experimental flag for so long?
+Link: https://www.reddit.com/r/chromeos/comments/yapikd/why_the_recycle_bin_is_just_an_experimental_flag/
+
+Is it possible to open a ViewSonic NMP660 to remove write protect?
+Link: https://www.reddit.com/r/chromeos/comments/12tj493/is_it_possible_to_open_a_viewsonic_nmp660_to/
+
+Have a chromebook with *completely* broken screen, is there any way to connect it to a monitor?
+Link: https://www.reddit.com/r/chromeos/comments/12i49jr/have_a_chromebook_with_completely_broken_screen/
+
+Why does my Chromebook show if someone else on my Network is casting to a device?
+Link: https://www.reddit.com/r/chromeos/comments/5yvkwc/why_does_my_chromebook_show_if_someone_else_on_my/
+
+Pixelbook Go can't output audio to Bluetooth device (Chrome OS 85)
+Link: https://www.reddit.com/r/chromeos/comments/j93ill/pixelbook_go_cant_output_audio_to_bluetooth/
+
+Will SD Card Compatibility with Android Apps Ever Get Fixed?
+Link: https://www.reddit.com/r/chromeos/comments/12w664o/will_sd_card_compatibility_with_android_apps_ever/
+
+Speaker Crackling with 111.0.5563.71
+Link: https://www.reddit.com/r/chromeos/comments/11t5p4m/speaker_crackling_with_1110556371/
+
+Why I can't turn my Chromebook on a Developer Mode?. Does it necessary to enable developer mode to recover and fixed the OS of Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/mn9tes/why_i_cant_turn_my_chromebook_on_a_developer_mode/
+
+The final version is indeed 103 as the last version for TERRA (Post-AUE). Hope is getting more fixes and improvements only for 103 that my device does not get future updates anymore.
+Link: https://www.reddit.com/r/chromeos/comments/vmba1s/the_final_version_is_indeed_103_as_the_last/
+
+I am currently doing my bachelor's degree in English. Would the Lenovo Chromebook Duet be sufficient as a primary device?
+Link: https://www.reddit.com/r/chromeos/comments/qzb7h1/i_am_currently_doing_my_bachelors_degree_in/
+
+HP Elite Dragonfly Chromebook Pricing
+Link: https://www.reddit.com/r/chromeos/comments/11vts7w/hp_elite_dragonfly_chromebook_pricing/
+
+"Printing issues with my HP x360 14c Chromebook - It's printing a whole novel instead of just one page!"
+Link: https://www.reddit.com/r/chromeos/comments/114ptgc/printing_issues_with_my_hp_x360_14c_chromebook/
+
+Why can't I get #deprecate-alt-based-six-pack to work to stop treating Alt+Up/Down like Search+Up/Down?
+Link: https://www.reddit.com/r/chromeos/comments/vtx70n/why_cant_i_get_deprecatealtbasedsixpack_to_work/
+
+Anyone know why my Play Store isn't working?
+Link: https://www.reddit.com/r/chromeos/comments/10cqeuw/anyone_know_why_my_play_store_isnt_working/
+
+Why does my bar have a yellowish tint to it? It doesn't seem to be a night light or other screen filter, and it just appeared out of nowhere today.
+Link: https://www.reddit.com/r/chromeos/comments/vezcq6/why_does_my_bar_have_a_yellowish_tint_to_it_it/
+
+i cant access my chromebook "admin" account.
+Link: https://www.reddit.com/r/chromeos/comments/ys79d4/i_cant_access_my_chromebook_admin_account/
+
+Help on internet connection
+Link: https://www.reddit.com/r/chromeos/comments/121v70z/help_on_internet_connection/
+
+How to make my wife's Chromebook more accessible
+Link: https://www.reddit.com/r/chromeos/comments/10v5ebx/how_to_make_my_wifes_chromebook_more_accessible/
+
+CONNECT TO IPHONE HOTSPOT
+Link: https://www.reddit.com/r/chromeos/comments/12qlrut/connect_to_iphone_hotspot/
+
+Why would anyone want to buy a chrome os device?
+Link: https://www.reddit.com/r/chromeos/comments/gqag38/why_would_anyone_want_to_buy_a_chrome_os_device/
+
+How does a chrome device "report" to the Admin Console, and why are so many of our devices not "reporting"?
+Link: https://www.reddit.com/r/chromeos/comments/qlsub0/how_does_a_chrome_device_report_to_the_admin/
+
+Chromebook disconnected my phone, can't reconnect it
+Link: https://www.reddit.com/r/chromeos/comments/102py1o/chromebook_disconnected_my_phone_cant_reconnect_it/
+
+Chromebook, Chromecast and Wireless Display
+Link: https://www.reddit.com/r/chromeos/comments/133g0i0/chromebook_chromecast_and_wireless_display/
+
+When I take a screenshot on my chromebook there is a little pop-up image on the bottom right of the screenshot I just took. Is there a way to disable this?
+Link: https://www.reddit.com/r/chromeos/comments/11lo0u2/when_i_take_a_screenshot_on_my_chromebook_there/
+
+Why can't I install Minecraft on my Chromebook Duet?
+Link: https://www.reddit.com/r/chromeos/comments/jyh0uv/why_cant_i_install_minecraft_on_my_chromebook_duet/
+
+Chrome (browser) Memory Leak
+Link: https://www.reddit.com/r/chromeos/comments/12d0jcf/chrome_browser_memory_leak/
+
+No eligible devices, but I have been using the same phone and Chromebook for the past 6 months just fine
+Link: https://www.reddit.com/r/chromeos/comments/szlt9b/no_eligible_devices_but_i_have_been_using_the/
+
+1.5ghz Chromebook only using .4ghz max. Plus, Chromebook with Verizon LTE active, who pays for it? Is it free?
+Link: https://www.reddit.com/r/chromeos/comments/11wzfpc/15ghz_chromebook_only_using_4ghz_max_plus/
+
+I'm trying to use my drawing tablet with my Chromebook, but whenever I plug it in and use it for a little bit, I can't click on anything on my screen. Does anyone know what I can do to fix this?
+Link: https://www.reddit.com/r/chromeos/comments/ys2fo4/im_trying_to_use_my_drawing_tablet_with_my/
+
+My Samsung 4 Chromebook when I press power only blink to power than shut off. What possibly go wrong ?
+Link: https://www.reddit.com/r/chromeos/comments/126994h/my_samsung_4_chromebook_when_i_press_power_only/
+
+Is it normal that I can't zoom in with Camera app in my Chromebook laptop?
+Link: https://www.reddit.com/r/chromeos/comments/zla5tc/is_it_normal_that_i_cant_zoom_in_with_camera_app/
+
+Using Chrome browser on a Chromebook to view a website, but it ONLY recognizes my chromebook as a mobile device and ONLY shows the mobile-version of the site. How do I get the desktop version to show my chromebook???
+Link: https://www.reddit.com/r/chromeos/comments/tuos2d/using_chrome_browser_on_a_chromebook_to_view_a/
+
+In gunna unscrew my HP chromebook 14 00db and try to remove the battery and put back together and see if it will reset it.. I press tab and I get a menu but I'm not satisfied with what's there.. I'm being cheap but I hate that I cant just decode and fix it myself so I may loose a few hundred bucks
+Link: https://www.reddit.com/r/chromeos/comments/obn8ii/in_gunna_unscrew_my_hp_chromebook_14_00db_and_try/
+
+Can I save a document to my device without it being on my drive?
+Link: https://www.reddit.com/r/chromeos/comments/t67u7o/can_i_save_a_document_to_my_device_without_it/
+
+Dell 3100 stuck in OS 90
+Link: https://www.reddit.com/r/chromeos/comments/12yk3x7/dell_3100_stuck_in_os_90/
+
+I just installed firmware in my chromebook dell p22t, and now my device boots to a black screen, what do I do?
+Link: https://www.reddit.com/r/chromeos/comments/etu6og/i_just_installed_firmware_in_my_chromebook_dell/
+
+I've been using ChromeOS I guess about 3 years now and this has stumped me to this day, as in it keeps happening, at least on my device (Dell Inspiron 14 2-1) Randomly, pinned apps on the taskbar will disappear and I'll need to re-pin them from time to time. I have no explanation.
+Link: https://www.reddit.com/r/chromeos/comments/vfm2d9/ive_been_using_chromeos_i_guess_about_3_years_now/
+
+Developer mode repository change
+Link: https://www.reddit.com/r/chromeos/comments/11u4x8a/developer_mode_repository_change/
+
+Long term ongoing issue with wifi over multiple chromebooks. Looking for info or advice.
+Link: https://www.reddit.com/r/chromeos/comments/zg86dq/long_term_ongoing_issue_with_wifi_over_multiple/
+
+High Contrast text
+Link: https://www.reddit.com/r/chromeos/comments/12og09s/high_contrast_text/
+
+Should I be worried about my battery?
+Link: https://www.reddit.com/r/chromeos/comments/135h8vx/should_i_be_worried_about_my_battery/
+
+Can't connect adb to device
+Link: https://www.reddit.com/r/chromeos/comments/eekidx/cant_connect_adb_to_device/
+
+HP 14a-na1020ca Review
+Link: https://www.reddit.com/r/chromeos/comments/115v8c8/hp_14ana1020ca_review/
+
+can't shut down my Chromebook completely, is it normal?
+Link: https://www.reddit.com/r/chromeos/comments/yw75zv/cant_shut_down_my_chromebook_completely_is_it/
+
+Why can't I download Linux on my Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/op6slj/why_cant_i_download_linux_on_my_chromebook/
+
+Is ARCVM worse than usual?
+Link: https://www.reddit.com/r/chromeos/comments/135yxkm/is_arcvm_worse_than_usual/
+
+2 Galaxy chromebooks cant connect to any local bluetooth devices
+Link: https://www.reddit.com/r/chromeos/comments/krfdg1/2_galaxy_chromebooks_cant_connect_to_any_local/
+
+If you'd have to choose one of those 2 laptops, which is it ?!
+Link: https://www.reddit.com/r/chromeos/comments/134rdd6/if_youd_have_to_choose_one_of_those_2_laptops/
+
+Is there anything i can do with this ARM based chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/12i8slz/is_there_anything_i_can_do_with_this_arm_based/
+
+i cant install linux on my chromebook
+Link: https://www.reddit.com/r/chromeos/comments/z20y6u/i_cant_install_linux_on_my_chromebook/
+
+Why Chromebook may soon be my primary device
+Link: https://www.reddit.com/r/chromeos/comments/393ako/why_chromebook_may_soon_be_my_primary_device/
+
+Changed behavior of the short cut (search shift L) in 112.
+Link: https://www.reddit.com/r/chromeos/comments/136fpbp/changed_behavior_of_the_short_cut_search_shift_l/
+
+What happened to my Chromebook's Chrome? I can't search as I normally do, I can just search as if I was in Yahoo
+Link: https://www.reddit.com/r/chromeos/comments/kxgosp/what_happened_to_my_chromebooks_chrome_i_cant/
+
+Why Can't I Copy/Past Files or Folders? It's Maddening !
+Link: https://www.reddit.com/r/chromeos/comments/v6er0z/why_cant_i_copypast_files_or_folders_its_maddening/
+
+why does new yt drain my battery fast?
+Link: https://www.reddit.com/r/chromeos/comments/ys5f3h/why_does_new_yt_drain_my_battery_fast/
+
+Why does my school chromebook say "spotify has expired"?
+Link: https://www.reddit.com/r/chromeos/comments/108kiu8/why_does_my_school_chromebook_say_spotify_has/
+
+Help My Samsung Chromebook 4 can't enter recovery mode
+Link: https://www.reddit.com/r/chromeos/comments/yswl0j/help_my_samsung_chromebook_4_cant_enter_recovery/
+
+Acer chromebook r11 cant keep a wifi connection for the life of it. Its the only device in the house that cant keep a connection.
+Link: https://www.reddit.com/r/chromeos/comments/g2snj4/acer_chromebook_r11_cant_keep_a_wifi_connection/
+
+Warning that it might delete my files to make room, how to turn off that behavior?
+Link: https://www.reddit.com/r/chromeos/comments/11u12gx/warning_that_it_might_delete_my_files_to_make/
+
+Is there a way to quickly disable smart lock, either on or off the device? A quick toggle maybe. Sometimes I'll be near but not next to my device, where someone could potentially login.
+Link: https://www.reddit.com/r/chromeos/comments/rki9nm/is_there_a_way_to_quickly_disable_smart_lock/
+
+Android apps won't load (just spin), removing play store crashes device.
+Link: https://www.reddit.com/r/chromeos/comments/mirqdg/android_apps_wont_load_just_spin_removing_play/
+
+Just powerwashed and now I have both the Play Games app and another app just called "Games" ??
+Link: https://www.reddit.com/r/chromeos/comments/12p9r7s/just_powerwashed_and_now_i_have_both_the_play/
+
+Why does my chromebook go black briefly before white login screen? It only does this sporadically not always p.s excuse mess of screen cousin dropped crumbs all over it
+Link: https://www.reddit.com/r/chromeos/comments/10frlk4/why_does_my_chromebook_go_black_briefly_before/
+
+After seeing the awesome collab with Valve and Framework, which company/companies would you like to see Google approach next to improve Chrome OS? Personally, I'd like to see Affinity apps on Chrome OS.
+Link: https://www.reddit.com/r/chromeos/comments/10ipwku/after_seeing_the_awesome_collab_with_valve_and/
+
+ELI5 - what are the benefits of using Linux on my chromebook (Ideapad Duet 5 arriving today)?
+Link: https://www.reddit.com/r/chromeos/comments/11xagfk/eli5_what_are_the_benefits_of_using_linux_on_my/
+
+Hey! My bookmarks tab is just empty, and I got about 4000 bookmarks. Why is this site just empty?
+Link: https://www.reddit.com/r/chromeos/comments/r72o6a/hey_my_bookmarks_tab_is_just_empty_and_i_got/
+
+Chromebook Memory leak renders device unusable for just one particular user
+Link: https://www.reddit.com/r/chromeos/comments/lhqtiv/chromebook_memory_leak_renders_device_unusable/
+
+Upgrade WiFi Module?
+Link: https://www.reddit.com/r/chromeos/comments/11a202h/upgrade_wifi_module/
+
+Geez, why can't I just go into a store and buy a 4gb RAM Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/253au4/geez_why_cant_i_just_go_into_a_store_and_buy_a/
+
+I can't see the text in my system tray anymore after updating
+Link: https://www.reddit.com/r/chromeos/comments/xdjudv/i_cant_see_the_text_in_my_system_tray_anymore/
+
+Why can't I print anything on my Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/g3zawk/why_cant_i_print_anything_on_my_chromebook/
+
+Lenovo (original) Duet, Android and Cross-Device services - disappointment!
+Link: https://www.reddit.com/r/chromeos/comments/138ln2q/lenovo_original_duet_android_and_crossdevice/
+
+Just got my series 3 and I'm loving it. Though I am a mouse user, and the track pad is really grinding my gears. Any suggestions on a nice wireless / Bluetooth mouse to compliment this awesome device?
+Link: https://www.reddit.com/r/chromeos/comments/1j3ada/just_got_my_series_3_and_im_loving_it_though_i_am/
+
+WHY CAN'T I LOGIN TO MY CHROMEBOOK???!!!
+Link: https://www.reddit.com/r/chromeos/comments/iew7kp/why_cant_i_login_to_my_chromebook/
+
+Good Price for Samsung Chromebook Plus v.1?
+Link: https://www.reddit.com/r/chromeos/comments/12hmm6c/good_price_for_samsung_chromebook_plus_v1/
+
+Why Is there a little google thing on my shelf (Far Right) Cant close either
+Link: https://www.reddit.com/r/chromeos/comments/c3pl0s/why_is_there_a_little_google_thing_on_my_shelf/
+
+Is it supposed to do this? Why doesn't it just open immediately?
+Link: https://www.reddit.com/r/chromeos/comments/wa0arn/is_it_supposed_to_do_this_why_doesnt_it_just_open/
+
+Touchpad issues on Galaxy Chromebook 1st gen
+Link: https://www.reddit.com/r/chromeos/comments/12vtke0/touchpad_issues_on_galaxy_chromebook_1st_gen/
+
+Please help! Unable to block websites
+Link: https://www.reddit.com/r/chromeos/comments/12mc8ih/please_help_unable_to_block_websites/
+
+why is my chromebook being so slow?
+Link: https://www.reddit.com/r/chromeos/comments/10i9prb/why_is_my_chromebook_being_so_slow/
+
+Just got my first Chromebook. What extensions or apps do you recommend?
+Link: https://www.reddit.com/r/chromeos/comments/yorlwx/just_got_my_first_chromebook_what_extensions_or/
+
+3100 2-in-1(Grabbiter) Can't Enter Developer Mode
+Link: https://www.reddit.com/r/chromeos/comments/13d0vsy/3100_2in1grabbiter_cant_enter_developer_mode/
+
+Just received my MacBook Air m2
+Link: https://www.reddit.com/r/chromeos/comments/zbn716/just_received_my_macbook_air_m2/
+
+Which do most of you use more of on your Chromebook?, PWA's or Android Apps?
+Link: https://www.reddit.com/r/chromeos/comments/12d5c26/which_do_most_of_you_use_more_of_on_your/
+
+Why can't turn my external preferences on nor off?
+Link: https://www.reddit.com/r/chromeos/comments/j39sce/why_cant_turn_my_external_preferences_on_nor_off/
+
+Any Reason I Can't Download Microsoft 365 from the Play Store on a Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/12knyuy/any_reason_i_cant_download_microsoft_365_from_the/
+
+Why I can't enjoy my movies on my chromebox in 4k?
+Link: https://www.reddit.com/r/chromeos/comments/jfvhfd/why_i_cant_enjoy_my_movies_on_my_chromebox_in_4k/
+
+Regular folk that got the Dragonfly Pro friday AMA
+Link: https://www.reddit.com/r/chromeos/comments/13b0vnz/regular_folk_that_got_the_dragonfly_pro_friday_ama/
+
+Casting bar missing from chromebook
+Link: https://www.reddit.com/r/chromeos/comments/127iw19/casting_bar_missing_from_chromebook/
+
+Original HP Chromebook x360 14c-ca bios needed.
+Link: https://www.reddit.com/r/chromeos/comments/11lv6kz/original_hp_chromebook_x360_14cca_bios_needed/
+
+Fabric Exterior on Detachables - How to Clean?
+Link: https://www.reddit.com/r/chromeos/comments/10mrhrp/fabric_exterior_on_detachables_how_to_clean/
+
+help needed I can't restart my Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/yah9kq/help_needed_i_cant_restart_my_chromebook/
+
+What happened with Lacros and Android 13?
+Link: https://www.reddit.com/r/chromeos/comments/11g4d66/what_happened_with_lacros_and_android_13/
+
+Can anyone help me with one issue. I have bought one external USB drive( male USB type c and 3 female USB) for my Lenovo duet Chromebook device. How can I set one of my ports for charging purposes only? and does Lenovo Chromebook devices support external USB charging?
+Link: https://www.reddit.com/r/chromeos/comments/pcio3x/can_anyone_help_me_with_one_issue_i_have_bought/
+
+Chromebook 42Wh battery overcharged above 100% to 50Wh ― effective charge of 120% evident from `battery_firmware info` and `upower` ― `Last full charge` vs. `Design capacity`. Why is battery actually charged ABOVE 100%? Any way to at least stop charging at just the 100%? How is 120% reasonable?
+Link: https://www.reddit.com/r/chromeos/comments/x3g2kq/chromebook_42wh_battery_overcharged_above_100_to/
+
+Thoughts about the HP Dragonfly Pro as a successor to the Pixelbook Go.
+Link: https://www.reddit.com/r/chromeos/comments/11cbpmj/thoughts_about_the_hp_dragonfly_pro_as_a/
+
+Minecraft on ChromeOS, how well it runs?
+Link: https://www.reddit.com/r/chromeos/comments/11tyow8/minecraft_on_chromeos_how_well_it_runs/
+
+Why can't I take a picture on my Android phone and see it on my Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/ge0dxh/why_cant_i_take_a_picture_on_my_android_phone_and/
+
+Is Android a Solution for EOL on Chromebooks?
+Link: https://www.reddit.com/r/chromeos/comments/12ocl2w/is_android_a_solution_for_eol_on_chromebooks/
+
+why does my dell chromebook not work the model name is DRALLION-FXEL C5B-B4Q-M5C-I4A-Y4A-A43
+Link: https://www.reddit.com/r/chromeos/comments/yhukyw/why_does_my_dell_chromebook_not_work_the_model/
+
+Know of anyone who can restore the OS on my Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/11wd6r3/know_of_anyone_who_can_restore_the_os_on_my/
+
+Lenovo Duet 3 loose keyboard cover?
+Link: https://www.reddit.com/r/chromeos/comments/11pu94d/lenovo_duet_3_loose_keyboard_cover/
+
+Privacy from google... sometimes overhyped?
+Link: https://www.reddit.com/r/chromeos/comments/12axb3m/privacy_from_google_sometimes_overhyped/
+
+My google keeps on switching to bing,any suggestions? (im on chromebook if it matters)
+Link: https://www.reddit.com/r/chromeos/comments/1266uih/my_google_keeps_on_switching_to_bingany/
+
+What should Google do to solve the EOL problem?
+Link: https://www.reddit.com/r/chromeos/comments/133zap1/what_should_google_do_to_solve_the_eol_problem/
+
+Google One VPN - Cannot Enable On Intel Devices
+Link: https://www.reddit.com/r/chromeos/comments/138pcti/google_one_vpn_cannot_enable_on_intel_devices/
+
+When I awaken my Chromebook in the morning I notice when trying to open the tab for Gmail in Chrome its slow to open.
+Link: https://www.reddit.com/r/chromeos/comments/12qnwkt/when_i_awaken_my_chromebook_in_the_morning_i/
+
+Asking for a chromebook as company laptop
+Link: https://www.reddit.com/r/chromeos/comments/12e17qm/asking_for_a_chromebook_as_company_laptop/
+
+If not the Acer Spin 713 or 714, then what's your next best purchase?
+Link: https://www.reddit.com/r/chromeos/comments/12eltdt/if_not_the_acer_spin_713_or_714_then_whats_your/
+
+My Asus Flip C434 barely works help me find another Chromebook!
+Link: https://www.reddit.com/r/chromeos/comments/12rgj48/my_asus_flip_c434_barely_works_help_me_find/
+
+Chrome recovery image forcing Enterprise mode.
+Link: https://www.reddit.com/r/chromeos/comments/11bb66n/chrome_recovery_image_forcing_enterprise_mode/
+
+Is it possible to run .exe files on a Chromebook without Linux?
+Link: https://www.reddit.com/r/chromeos/comments/10zuxg7/is_it_possible_to_run_exe_files_on_a_chromebook/
+
+Getting an USB storage device handed over to termina
+Link: https://www.reddit.com/r/chromeos/comments/12swf9f/getting_an_usb_storage_device_handed_over_to/
+
+Thought of a cool feature but not sure if anyone else would care
+Link: https://www.reddit.com/r/chromeos/comments/qz32ta/thought_of_a_cool_feature_but_not_sure_if_anyone/
+
+Hey guys, can anyone help me out? I'm wondering what this symbol on my camera means and if anyone knows how to fix this issue? Any advice would be appreciated!
+Link: https://www.reddit.com/r/chromeos/comments/131t347/hey_guys_can_anyone_help_me_out_im_wondering_what/
+
+Can't stream apps over hotspot connection between PSP/Pixelbook. Bug or feature? I litterally am on the same network. Also, the recent apps section shows the apps' icons correctly. It just can't open them. Being able to stream apps over hotspot would be a very handy mobile feature. Coming soon?
+Link: https://www.reddit.com/r/chromeos/comments/12yae58/cant_stream_apps_over_hotspot_connection_between/
+
+(Sorry about bad quality) I was gifted these parts of a chrome book but I have no way of Identifying what model it is and I need a new charger so a link or a model name would be helpful
+Link: https://www.reddit.com/r/chromeos/comments/1316rbp/sorry_about_bad_quality_i_was_gifted_these_parts/
+
+How cool it would be if Chromebooks supported something like Razer Core and booted into Steam OS when connected!
+Link: https://www.reddit.com/r/chromeos/comments/43en18/how_cool_it_would_be_if_chromebooks_supported/
+
+Is it worth it?As this would be my first device and I am also using Windows
+Link: https://www.reddit.com/r/chromeos/comments/11s32fv/is_it_worth_itas_this_would_be_my_first_device/
+
+Getting my first Chromebook and I need some advice
+Link: https://www.reddit.com/r/chromeos/comments/xbmj5z/getting_my_first_chromebook_and_i_need_some_advice/
+
+In need of help my chromebook won't cool down and it won't turn on
+Link: https://www.reddit.com/r/chromeos/comments/131neyx/in_need_of_help_my_chromebook_wont_cool_down_and/
+
+If i use recovery usb made for acer spin 511 on a hp chromebook with similar specs would it work?
+Link: https://www.reddit.com/r/chromeos/comments/11hj5ww/if_i_use_recovery_usb_made_for_acer_spin_511_on_a/
+
+Squid Pro vs Noteshelf vs Nebo vs ???
+Link: https://www.reddit.com/r/chromeos/comments/wx0vk3/squid_pro_vs_noteshelf_vs_nebo_vs/
+
+Hello I’m in need of some assistance. I’m about to buy a chromebook and heard about the office 365 apps not working for chromebooks anymore. If I pay for office 365 every month and use it online would it be any good ? Thanks
+Link: https://www.reddit.com/r/chromeos/comments/snmq42/hello_im_in_need_of_some_assistance_im_about_to/
+
+My chrome book won’t turn on and but it’s has the power light I did some research and found out I need to hard reset it if I do that would all my files be lost even if I log into my account
+Link: https://www.reddit.com/r/chromeos/comments/mirp0y/my_chrome_book_wont_turn_on_and_but_its_has_the/
+
+ChromeOS App Streaming is awesome. One thing though: There is too much going on on the left side of the shelf. I would like this new feature to be on the right side instead, next to App Launcher button. Thoughts?
+Link: https://www.reddit.com/r/chromeos/comments/12cr0lo/chromeos_app_streaming_is_awesome_one_thing/
+
+Do Chromebooks have unique features? I mean, can you do on a MacBook Air everything you can do on a Chromebook? Not sure if they do, but I feel like chromeOS would benefit of exclusive features, like Pixels phones do. Pic: Pixel Magic Eraser.
+Link: https://www.reddit.com/r/chromeos/comments/11s5j7f/do_chromebooks_have_unique_features_i_mean_can/
+
+How does anyone really think the experience from two devices like this would be similar??
+Link: https://www.reddit.com/r/chromeos/comments/11690hs/how_does_anyone_really_think_the_experience_from/
+
+Can a Chromebook replace my laptop, and if so, which would be good for my usage?
+Link: https://www.reddit.com/r/chromeos/comments/y6jzn3/can_a_chromebook_replace_my_laptop_and_if_so/
+
+Penoval have contacted me and they'd like some feedback on which of these designs for their next USI stylus would be preferred by the community. Please take a look at the proposals and vote in the poll below!
+Link: https://www.reddit.com/r/chromeos/comments/12igi7a/penoval_have_contacted_me_and_theyd_like_some/
+
+If you'd have to choose one of those 2 laptops, which is it ?!
+Link: https://www.reddit.com/r/chromeos/comments/134rdd6/if_youd_have_to_choose_one_of_those_2_laptops/
+
+Building a digital picture frame.
+Link: https://www.reddit.com/r/chromeos/comments/u66ag4/building_a_digital_picture_frame/
+
+is there a way to get the camera app fullscreen? I am using a capture card to my Chromebook for my wiiu and i would like it to be full screen but its probably 3/4. or if not is there an Android camera app that is better?
+Link: https://www.reddit.com/r/chromeos/comments/tiaewq/is_there_a_way_to_get_the_camera_app_fullscreen_i/
+
+So I have a hp chromebook 14, and I just found this weird little trick, control + alt + shift + t gives me tablet mode, idk if I was supposed to know that but I thought it would be interesting to share
+Link: https://www.reddit.com/r/chromeos/comments/jw573e/so_i_have_a_hp_chromebook_14_and_i_just_found/
+
+What would be an upgrade over a Duet 3?
+Link: https://www.reddit.com/r/chromeos/comments/11lqbl7/what_would_be_an_upgrade_over_a_duet_3/
+
+Help? I keep seeing this on my Chromebook. This thing in the corner of my browser keeps showing up whenever I open a new tab. I don't know what it is or how to get rid of it. If anyone could tell me what to do, it would be very appreciated.
+Link: https://www.reddit.com/r/chromeos/comments/peaf74/help_i_keep_seeing_this_on_my_chromebook_this/
+
+what are some good chromebooks that use AMD chipsets. if I get one I will be using it for gaming.
+Link: https://www.reddit.com/r/chromeos/comments/y00lzt/what_are_some_good_chromebooks_that_use_amd/
+
+Can someone help me with this? I was trying to format my usb with the chromebook recovery tool but then it was not working so i stopped trying to it. When i looked at my usb it would not let me format it or delete any of the files. I tried erasing and formatting the usb but that did not work. help
+Link: https://www.reddit.com/r/chromeos/comments/129t30t/can_someone_help_me_with_this_i_was_trying_to/
+
+Lenovo duet 2019 with Penoval USI 1st gen. Whenever going from diagonal to perpendicular, the Pen input does a little "jump". No idea how to fix it or if its even fixable in the first place. Help
+Link: https://www.reddit.com/r/chromeos/comments/12up5kw/lenovo_duet_2019_with_penoval_usi_1st_gen/
+
+Where would the write protection screw be on the c730?
+Link: https://www.reddit.com/r/chromeos/comments/11cxb99/where_would_the_write_protection_screw_be_on_the/
+
+Is this damage considered tier 4? This is a school Chromebook and idk if it will be expensive to fix? The screen still works perfectly with only the outside is chipped
+Link: https://www.reddit.com/r/chromeos/comments/yfsvqc/is_this_damage_considered_tier_4_this_is_a_school/
+
+what would be a good altenative to chromeos?
+Link: https://www.reddit.com/r/chromeos/comments/115zhhe/what_would_be_a_good_altenative_to_chromeos/
+
+Question. Would it be possible to install windows on a chromebook
+Link: https://www.reddit.com/r/chromeos/comments/xilwd9/question_would_it_be_possible_to_install_windows/
+
+Is it possible for a Chromebook to be infected with a rootkit or other rootkit like attacks?
+Link: https://www.reddit.com/r/chromeos/comments/12ay16y/is_it_possible_for_a_chromebook_to_be_infected/
+
+If i were to powerwash my chrombook would it power wash my other account or would it be fine
+Link: https://www.reddit.com/r/chromeos/comments/kf9z45/if_i_were_to_powerwash_my_chrombook_would_it/
+
+Trying to see if a Chromebook would be a good fit for my mother
+Link: https://www.reddit.com/r/chromeos/comments/rm279f/trying_to_see_if_a_chromebook_would_be_a_good_fit/
+
+Bruschetta is doing what I would expect from it...
+Link: https://www.reddit.com/r/chromeos/comments/12u351m/bruschetta_is_doing_what_i_would_expect_from_it/
+
+if there is a working N64 emulator would it be safe to download on a chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/jh0ue6/if_there_is_a_working_n64_emulator_would_it_be/
+
+is it possible to have 2 telegram accounts on chrome os? I'm about to purchase a Chromebook for work and would like to know if it's possible
+Link: https://www.reddit.com/r/chromeos/comments/wrlof2/is_it_possible_to_have_2_telegram_accounts_on/
+
+If I bought the same model chromebook, could I use it to repair a broken screen?
+Link: https://www.reddit.com/r/chromeos/comments/120n4lx/if_i_bought_the_same_model_chromebook_could_i_use/
+
+Hello, I would like to ask if is it okay to use my HP Chromebook charger to charge my Pixel 4XL? Thank you.
+Link: https://www.reddit.com/r/chromeos/comments/s0xjdy/hello_i_would_like_to_ask_if_is_it_okay_to_use_my/
+
+Do the Duet and the CM3 use the same pogo pin layout?
+Link: https://www.reddit.com/r/chromeos/comments/qrmx7o/do_the_duet_and_the_cm3_use_the_same_pogo_pin/
+
+Asking for recommendations: I Asus chromebook C423 in the past, it fits my needs, but the device is overall slow. Would it make a significant difference if I buy a high end chromebook? If yes, any recommendations? I do not want to break the bank, and I do not care about touch screen..
+Link: https://www.reddit.com/r/chromeos/comments/t2djkg/asking_for_recommendations_i_asus_chromebook_c423/
+
+When I sit my open airpods on my chromebook, on the bottom right side next to the touchpad...and they are open, my screen on the computer turns black. It stops when I pull them away. Wth could be causing this?
+Link: https://www.reddit.com/r/chromeos/comments/125qwh9/when_i_sit_my_open_airpods_on_my_chromebook_on/
+
+My google keeps on switching to bing,any suggestions? (im on chromebook if it matters)
+Link: https://www.reddit.com/r/chromeos/comments/1266uih/my_google_keeps_on_switching_to_bingany/
+
+thoughts on this? I have an OG duet, I'm wondering if it's worth the upgrade for 250.
+Link: https://www.reddit.com/r/chromeos/comments/11kgj3h/thoughts_on_this_i_have_an_og_duet_im_wondering/
+
+It would be nice if Google's Remote Desktop Connect worked with Chrome devices as well.
+Link: https://www.reddit.com/r/chromeos/comments/87uqk7/it_would_be_nice_if_googles_remote_desktop/
+
+If you could make a Chromebook for the market, what would it be?
+Link: https://www.reddit.com/r/chromeos/comments/8g8lnt/if_you_could_make_a_chromebook_for_the_market/
+
+Would this be a good Chromebook for school work?
+Link: https://www.reddit.com/r/chromeos/comments/11bltdr/would_this_be_a_good_chromebook_for_school_work/
+
+Ive been having this problem for a few weeks now, and nothing seems to fix it. I can be doing anything, and then the wifi will just automatically switch off. It won’t let me turn it back on, and I don’t know why. If anyone has anything that would help me with this issue Id appreciate it a lot
+Link: https://www.reddit.com/r/chromeos/comments/ig6l0z/ive_been_having_this_problem_for_a_few_weeks_now/
+
+Would Anyone Be Interested in a Recovery Script?
+Link: https://www.reddit.com/r/chromeos/comments/11ne1f6/would_anyone_be_interested_in_a_recovery_script/
+
+hey, this issue just randomly popped up, and im wondering if its a virus of some sort or just a software issue?
+Link: https://www.reddit.com/r/chromeos/comments/124yac1/hey_this_issue_just_randomly_popped_up_and_im/
+
+Wouldn't it be nice if there was a blur effect on top of windows?
+Link: https://www.reddit.com/r/chromeos/comments/qxktjv/wouldnt_it_be_nice_if_there_was_a_blur_effect_on/
+
+Android tablets and Chromebooks are on another crash course – will it be different this time?
+Link: https://www.reddit.com/r/chromeos/comments/101akud/android_tablets_and_chromebooks_are_on_another/
+
+Would it be possible to download something like blue stacks on a Chromebook without dev mode?
+Link: https://www.reddit.com/r/chromeos/comments/v7xo3i/would_it_be_possible_to_download_something_like/
+
+Can this be repaired or do I have to replace it
+Link: https://www.reddit.com/r/chromeos/comments/11i2ujs/can_this_be_repaired_or_do_i_have_to_replace_it/
+
+I made a free PDF editor that works in your browser (it comes as a Chrome extension too)
+Link: https://www.reddit.com/r/chromeos/comments/12ece6j/i_made_a_free_pdf_editor_that_works_in_your/
+
+Is it possible to update ASUS ChromeBox if not install Linux?
+Link: https://www.reddit.com/r/chromeos/comments/110a3ek/is_it_possible_to_update_asus_chromebox_if_not/
+
+If you could buy a single chrome machine (book, box, etc.) w/ money not an issue, what would it be?
+Link: https://www.reddit.com/r/chromeos/comments/arzph6/if_you_could_buy_a_single_chrome_machine_book_box/
+
+When I hit the "update all" message in the notification bar, it would be amazing if my Flip just started updating in the background, instead of opening up Google Play and show me it's updating....
+Link: https://www.reddit.com/r/chromeos/comments/7s64r3/when_i_hit_the_update_all_message_in_the/
+
+Sometimes I find Spin 513-H (Lazor) completely off and it never turns on without a charger even if it has enough battery, also some Wi-Fi problems
+Link: https://www.reddit.com/r/chromeos/comments/11sua63/sometimes_i_find_spin_513h_lazor_completely_off/
+
+Can you set up a chrome book will use an external monitor I mean like if you run the install screen would you be able to look at the screen on an external monitor
+Link: https://www.reddit.com/r/chromeos/comments/sa14ye/can_you_set_up_a_chrome_book_will_use_an_external/
+
+Duet would be perfect if they changed the hinge
+Link: https://www.reddit.com/r/chromeos/comments/t8tam3/duet_would_be_perfect_if_they_changed_the_hinge/
+
+I was thinking MV3 would be a deal breaker, but I think Google killing Stadia is an even bigger one.
+Link: https://www.reddit.com/r/chromeos/comments/xs26ng/i_was_thinking_mv3_would_be_a_deal_breaker_but_i/
+
+has anyone tried chrome os 89? if not ill say its cool
+Link: https://www.reddit.com/r/chromeos/comments/l7c6i5/has_anyone_tried_chrome_os_89_if_not_ill_say_its/
+
+Samsung Chromebook 4 CPU speed used to be at around 2.69 GHz or so, now it goes down to like .3 GHz after some time. This happened around the time I installed an update to Chrome OS.
+Link: https://www.reddit.com/r/chromeos/comments/zu45y2/samsung_chromebook_4_cpu_speed_used_to_be_at/
+
+In Google's blog post you find this gif image showing the new app drawer, but it's not what we actually get on Chrome 100: That cool ripple effect is missing, and the apps in the drawer are noticeably more separated, making the app drawer oddly and unnecessarily too wide. Did you guys notice that?
+Link: https://www.reddit.com/r/chromeos/comments/tt7weh/in_googles_blog_post_you_find_this_gif_image/
+
+i found a bug in chromeos, dont know what caused it but it sure does look cool
+Link: https://www.reddit.com/r/chromeos/comments/vuf26v/i_found_a_bug_in_chromeos_dont_know_what_caused/
+
+What things you think the OS is still missing that would make it perfect?
+Link: https://www.reddit.com/r/chromeos/comments/wpu7bm/what_things_you_think_the_os_is_still_missing/
+
+Hi i would like to ask a question i have a chromebook 11e and i donot support linux beta is there any chance to install winehq to run some old video games or simply another application to use it
+Link: https://www.reddit.com/r/chromeos/comments/10gyql2/hi_i_would_like_to_ask_a_question_i_have_a/
+
+If I understand correctly, businesses using Outlook email will no longer be able to use Chromebooks?
+Link: https://www.reddit.com/r/chromeos/comments/ylmwpp/if_i_understand_correctly_businesses_using/
+
+I would be recommending Chromebooks non-stop if it wasnt due to the lack of Skype support.
+Link: https://www.reddit.com/r/chromeos/comments/2t3flu/i_would_be_recommending_chromebooks_nonstop_if_it/
+
+Regular folk that got the Dragonfly Pro friday AMA
+Link: https://www.reddit.com/r/chromeos/comments/13b0vnz/regular_folk_that_got_the_dragonfly_pro_friday_ama/
+
+Flex 5 for 350! Would this work for some picture and video editing on linux. It will definitely be good enough for my primary stuff such as Gmail, zoom and surfing.
+Link: https://www.reddit.com/r/chromeos/comments/odffbt/flex_5_for_350_would_this_work_for_some_picture/
+
+Powerwashed my dad’s old Chromebook (he passed in 2015). Is it worth using now that they don’t provide updates? Apps still work. It would just be for browsing/streaming really. What privacy concerns should I have? Thanks!
+Link: https://www.reddit.com/r/chromeos/comments/i9me4j/powerwashed_my_dads_old_chromebook_he_passed_in/
+
+Is there a chrome extension or a method to take a screenshot and put it on top of everything?
+Link: https://www.reddit.com/r/chromeos/comments/ajo07q/is_there_a_chrome_extension_or_a_method_to_take_a/
+
+Playing this gem on chromeOS. I never thought it would be possible.
+Link: https://www.reddit.com/r/chromeos/comments/kwneyu/playing_this_gem_on_chromeos_i_never_thought_it/
+
+I think it would be a great idea if Google put the extension icons next to the clock area in Chrome OS.
+Link: https://www.reddit.com/r/chromeos/comments/1ingg6/i_think_it_would_be_a_great_idea_if_google_put/
+
+How do I change taskbar color? After updating it got changed from gray to this blue color and I want gray back.
+Link: https://www.reddit.com/r/chromeos/comments/11rzfzx/how_do_i_change_taskbar_color_after_updating_it/
+
+My school chromebook stopped working
+Link: https://www.reddit.com/r/chromeos/comments/12jfrks/my_school_chromebook_stopped_working/
+
+If i get an USB hard drive will i be able to install all the linux applications?
+Link: https://www.reddit.com/r/chromeos/comments/yihfp6/if_i_get_an_usb_hard_drive_will_i_be_able_to/
+
+Can we talk about this Cursive PWA? It syncs via some googly-ness but can't be opened on Android Chrome. What if I want to see a note that I previously wrote, but now I only have my phone with me?
+Link: https://www.reddit.com/r/chromeos/comments/pjnjue/can_we_talk_about_this_cursive_pwa_it_syncs_via/
+
+Any recommendations for a privacy screen for the C302A flip? I'm okay if I can't use the touchscreen while it's on but I'd need to easily be able to remove and re-attach it. I travel a lot and having this on during conferences and while on the plane would be really helpful.
+Link: https://www.reddit.com/r/chromeos/comments/6g1x7r/any_recommendations_for_a_privacy_screen_for_the/
+
+longevity of mt8183/P60T/kompanio 500
+Link: https://www.reddit.com/r/chromeos/comments/13cpdvh/longevity_of_mt8183p60tkompanio_500/
+
+Is there any reason why I shouldn't use a Chromebook to digitize hundreds of VHS tapes? It's a personal collection of recorded television and home video content, 30-40 years old. No movies or series. Would I be better off buying a dedicated Windows machine and hardware? Why? Thanks.
+Link: https://www.reddit.com/r/chromeos/comments/s4872k/is_there_any_reason_why_i_shouldnt_use_a/
+
+Good Price for Samsung Chromebook Plus v.1?
+Link: https://www.reddit.com/r/chromeos/comments/12hmm6c/good_price_for_samsung_chromebook_plus_v1/
+
+Does Intel MSI Boot Guard signature leak potentially affect chromebooks with Intel cpu's?
+Link: https://www.reddit.com/r/chromeos/comments/13dcp3c/does_intel_msi_boot_guard_signature_leak/
+
+What should Google do to solve the EOL problem?
+Link: https://www.reddit.com/r/chromeos/comments/133zap1/what_should_google_do_to_solve_the_eol_problem/
+
+Can a screen's brightness fade over time? Brightness on high and i feel like im starting to notice a difference in how bright it used to be. Just bought it back in september but use it for hours a day everyday.
+Link: https://www.reddit.com/r/chromeos/comments/10bt5kx/can_a_screens_brightness_fade_over_time/
+
+As someone interested in getting their first ChromeBook, would any of them be able to handle 3D Sculpting in Blender, and if so, which would you recommend for the job?
+Link: https://www.reddit.com/r/chromeos/comments/mpglr9/as_someone_interested_in_getting_their_first/
+
+Best simple lightweight but powerful chromebook under $500? Similiar to the old Toshiba Chromebook 2?
+Link: https://www.reddit.com/r/chromeos/comments/131lvdx/best_simple_lightweight_but_powerful_chromebook/
+
+Would chromebook be viable as iPad substitute
+Link: https://www.reddit.com/r/chromeos/comments/w2vsbe/would_chromebook_be_viable_as_ipad_substitute/
+
+Can anyone tell me why my Chromebook displays pictures like this randomly when in full screen mode in Google Photos? Random. Never happened to me using my old windows laptop. Don't know if it does it in Gallery too, no pics on hd (new, first Chromebook) idk if just browser based or broader issue.
+Link: https://www.reddit.com/r/chromeos/comments/xtwnu4/can_anyone_tell_me_why_my_chromebook_displays/
+
+Acer Chromebook C731 running ChromeOS 110
+Link: https://www.reddit.com/r/chromeos/comments/12f0755/acer_chromebook_c731_running_chromeos_110/
+
+do i need a phone to use it?
+Link: https://www.reddit.com/r/chromeos/comments/13ddlzv/do_i_need_a_phone_to_use_it/
+
+People with a Gaming PC/laptop AND a Chromebook - what was your reasoning? If you use it as a secondary device, what do you mainly use it for?
+Link: https://www.reddit.com/r/chromeos/comments/xfrul3/people_with_a_gaming_pclaptop_and_a_chromebook/
+
+SteelSeries Arctis Nova Pro Wireless on Chromebox: A Review
+Link: https://www.reddit.com/r/chromeos/comments/13a2xjx/steelseries_arctis_nova_pro_wireless_on_chromebox/
+
+How to change between trackpad and touch mode on CRD?
+Link: https://www.reddit.com/r/chromeos/comments/11vnzct/how_to_change_between_trackpad_and_touch_mode_on/
+
+If Android can be run on Chrome OS, why it can't be run in other Linux distros?
+Link: https://www.reddit.com/r/chromeos/comments/lp44vv/if_android_can_be_run_on_chrome_os_why_it_cant_be/
+
+I think I'm done with Chromebooks
+Link: https://www.reddit.com/r/chromeos/comments/12v6hhy/i_think_im_done_with_chromebooks/
+
+It would make my life if someone makes a bios script for a asus c100p arm based chromebook.
+Link: https://www.reddit.com/r/chromeos/comments/mxtuni/it_would_make_my_life_if_someone_makes_a_bios/
+
+What would be an upgrade for an Acer 315?
+Link: https://www.reddit.com/r/chromeos/comments/whcvmo/what_would_be_an_upgrade_for_an_acer_315/
+
+PSA: The latest update for the Dev Channel , version 104.0.5112.6, is causing users to be locked out of their devices. Do not update if possible.
+Link: https://www.reddit.com/r/chromeos/comments/vcg6lh/psa_the_latest_update_for_the_dev_channel_version/
+
+Asus CX5400 i3/8G - would it be enough?
+Link: https://www.reddit.com/r/chromeos/comments/qql2tt/asus_cx5400_i38g_would_it_be_enough/
+
+I wish there were media controls on the keyboard in ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/4z823j/i_wish_there_were_media_controls_on_the_keyboard/
+
+Help me pick out a chromebook for college?
+Link: https://www.reddit.com/r/chromeos/comments/3h0gs7/help_me_pick_out_a_chromebook_for_college/
+
+How can I install Linux apps?, my terminal wasn't like this before and I did install some apps from it now when I open it this is what it looks like. I might powerwash my Chromebook so that I can install the apps that I want but I don't wanna do it cuz my data will be wiped out. Any advice?
+Link: https://www.reddit.com/r/chromeos/comments/x92kad/how_can_i_install_linux_apps_my_terminal_wasnt/
+
+My screen cracked on my Asus and it is getting worse. What happens next? I only paid a couple hundred for it. Do I get a new laptop? If so which kind? Would need the same price point.
+Link: https://www.reddit.com/r/chromeos/comments/pkv0la/my_screen_cracked_on_my_asus_and_it_is_getting/
+
+I have been Thinking of buying a Chromebook, would this be a good first Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/vw0inf/i_have_been_thinking_of_buying_a_chromebook_would/
+
+how to know If my chromebook is bricked and what tô do with It?
+Link: https://www.reddit.com/r/chromeos/comments/yi2f8h/how_to_know_if_my_chromebook_is_bricked_and_what/
+
+Manifest v3 - effect on Chromebooks?
+Link: https://www.reddit.com/r/chromeos/comments/12hh6su/manifest_v3_effect_on_chromebooks/
+
+Steam Gaming by Vulkan for Crostini, and This Might Be What Official “Steam for Chromeos(Aka Borealis)” Would Be like for Chromebook Not in the List
+Link: https://www.reddit.com/r/chromeos/comments/uq13t0/steam_gaming_by_vulkan_for_crostini_and_this/
+
+In what case would you not recommend Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/136pcxo/in_what_case_would_you_not_recommend_chromebook/
+
+Found a flag in 106 to enable rounded corners for the display ( not sure if it was there before ), unfortunately it doesn't carry through to the windows.
+Link: https://www.reddit.com/r/chromeos/comments/x3uwwj/found_a_flag_in_106_to_enable_rounded_corners_for/
+
+I am planning on buying an HP Chromebook x360 14a. But I'm not sure if it had USI compatibility. If it doesn't support USI styli, which pens can be used with the chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/qz1ec1/i_am_planning_on_buying_an_hp_chromebook_x360_14a/
+
+Does anybody know if it’s possible to use an iPhone with a chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/wv4jw6/does_anybody_know_if_its_possible_to_use_an/
+
+Would an Chromebook be the right thing for me ?
+Link: https://www.reddit.com/r/chromeos/comments/wgxm31/would_an_chromebook_be_the_right_thing_for_me/
+
+Could this be why it's not switching to tablet mode and disabling keyboard? it's refurbished just got it in and tried everything I can find with no fix.
+Link: https://www.reddit.com/r/chromeos/comments/z8981g/could_this_be_why_its_not_switching_to_tablet/
+
+After seeing the awesome collab with Valve and Framework, which company/companies would you like to see Google approach next to improve Chrome OS? Personally, I'd like to see Affinity apps on Chrome OS.
+Link: https://www.reddit.com/r/chromeos/comments/10ipwku/after_seeing_the_awesome_collab_with_valve_and/
+
+2 year old Acer Spin 713. Just started doing this today. Restarting didn't help. Hardware issue?
+Link: https://www.reddit.com/r/chromeos/comments/10h5acj/2_year_old_acer_spin_713_just_started_doing_this/
+
+Having a specific issue with the Lenovo Chromebook Duet, and it's driving me insane! Any ideas or suggestions would be amazing.
+Link: https://www.reddit.com/r/chromeos/comments/m9wpzd/having_a_specific_issue_with_the_lenovo/
+
+Sometimes google will ban an extension from being available for it's browser, even if it's legit & not malware. I've found some really good extensions, but am worried they will get banned. Does anyone know how to download the apk of these extensions from the chrome web store? -Thanks. (I have.....
+Link: https://www.reddit.com/r/chromeos/comments/pqix59/sometimes_google_will_ban_an_extension_from_being/
+
+What would be a reasonable price to sell my chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/xdl7k8/what_would_be_a_reasonable_price_to_sell_my/
+
+Looking for a USB C mouse for my Chromebook that would be good for editing photos.
+Link: https://www.reddit.com/r/chromeos/comments/v9bxrl/looking_for_a_usb_c_mouse_for_my_chromebook_that/
+
+Lenovo (original) Duet, Android and Cross-Device services - disappointment!
+Link: https://www.reddit.com/r/chromeos/comments/138ln2q/lenovo_original_duet_android_and_crossdevice/
+
+Will SD Card Compatibility with Android Apps Ever Get Fixed?
+Link: https://www.reddit.com/r/chromeos/comments/12w664o/will_sd_card_compatibility_with_android_apps_ever/
+
+If I’d benchmark Windows vs ChromeOS. How would I go about doing so? I want to test as objectively as possible
+Link: https://www.reddit.com/r/chromeos/comments/vebqef/if_id_benchmark_windows_vs_chromeos_how_would_i/
+
+Buy a cheap basic laptop with ChromeOS/Linux or go directly for a Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/126k1l0/buy_a_cheap_basic_laptop_with_chromeoslinux_or_go/
+
+Handwriting + keyboard app??
+Link: https://www.reddit.com/r/chromeos/comments/12sk4me/handwriting_keyboard_app/
+
+NEED HELP WITH DECIDING WHICH CHROMEBOOK WOULD BE BEST.
+Link: https://www.reddit.com/r/chromeos/comments/x0ipq9/need_help_with_deciding_which_chromebook_would_be/
+
+Using Chromebook as a weather clock?
+Link: https://www.reddit.com/r/chromeos/comments/1143bmk/using_chromebook_as_a_weather_clock/
+
+Does anyone know why it would be doing this ?
+Link: https://www.reddit.com/r/chromeos/comments/k2w5ap/does_anyone_know_why_it_would_be_doing_this/
+
+Have updated to Version 90 in the Lenovo Duet. Android 9 is worse. So, worse that even if I open one app it crashes. Hope android 11 would come soon.
+Link: https://www.reddit.com/r/chromeos/comments/n27yi7/have_updated_to_version_90_in_the_lenovo_duet/
+
+Is Google working on a new way to run Android apps that would repalce ARCVM? I think it starts with a "s".
+Link: https://www.reddit.com/r/chromeos/comments/vzlbgn/is_google_working_on_a_new_way_to_run_android/
+
+Duet 3 vs. Surface Go 3?
+Link: https://www.reddit.com/r/chromeos/comments/12x95gu/duet_3_vs_surface_go_3/
+
+Bewildered... looking for Chromebook to replace S7 FE
+Link: https://www.reddit.com/r/chromeos/comments/130jugz/bewildered_looking_for_chromebook_to_replace_s7_fe/
+
+Will a stylus work for my Chromebook (Acer R13)? It didn't come with any as other models I've seen but I was wondering if it would work fine with a Stylus bought from Amazon.
+Link: https://www.reddit.com/r/chromeos/comments/nlk5n3/will_a_stylus_work_for_my_chromebook_acer_r13_it/
+
+I am a content writer. What Chromebook would be the most suitable for me in the sub $700 category? Any and all help is greatly appreciated!
+Link: https://www.reddit.com/r/chromeos/comments/wyvkmq/i_am_a_content_writer_what_chromebook_would_be/
+
+Installed snapd through the Linux beta, but the core won't mount when trying to install snaps
+Link: https://www.reddit.com/r/chromeos/comments/9l5sfg/installed_snapd_through_the_linux_beta_but_the/
+
+With Steam (eventually) coming to ChromeOS, when will we see Chromebooks with discrete GPUS?
+Link: https://www.reddit.com/r/chromeos/comments/135db55/with_steam_eventually_coming_to_chromeos_when/
+
+Uninstall linux environment. I have a chromobook with only 32g storage. If a uninstall linux environment what would happen to the Android apps already installed. Do they still work
+Link: https://www.reddit.com/r/chromeos/comments/up0os8/uninstall_linux_environment_i_have_a_chromobook/
+
+Need help picking a Chromebook for my mother. She has diminished vision, so a larger screen would be a plus. She doesn't need power features; accessibility is the main concern - email and browsing. Under $400 if possible. Thanks!
+Link: https://www.reddit.com/r/chromeos/comments/dm7gqa/need_help_picking_a_chromebook_for_my_mother_she/
+
+Best Chromebook for typing?
+Link: https://www.reddit.com/r/chromeos/comments/136okxc/best_chromebook_for_typing/
+
+My screen is black after sign in. I can sign in as a guest but that's it. I've recently updated which is probably the reason why but any help would be great.
+Link: https://www.reddit.com/r/chromeos/comments/ly7qot/my_screen_is_black_after_sign_in_i_can_sign_in_as/
+
+What's a consumer option to the Dell Latitude 5300 2 in 1 Chromebook Enterprise? If there was an option to purchase one, would you recommend it?
+Link: https://www.reddit.com/r/chromeos/comments/cxn636/whats_a_consumer_option_to_the_dell_latitude_5300/
+
+best cheap 2 in 1 chromebook
+Link: https://www.reddit.com/r/chromeos/comments/131mq1k/best_cheap_2_in_1_chromebook/
+
+No linux grapics environment since Chromeos 111 ?
+Link: https://www.reddit.com/r/chromeos/comments/11xbkgm/no_linux_grapics_environment_since_chromeos_111/
+
+Help, Trying to change to Windows on CB315
+Link: https://www.reddit.com/r/chromeos/comments/13dbsfd/help_trying_to_change_to_windows_on_cb315/
+
+What Chromebook would be best for me?
+Link: https://www.reddit.com/r/chromeos/comments/x0m0r9/what_chromebook_would_be_best_for_me/
+
+Thinkpad C13 - Mouse cursor angle snaps and overshoots when using touchpad?
+Link: https://www.reddit.com/r/chromeos/comments/12k4bt4/thinkpad_c13_mouse_cursor_angle_snaps_and/
+
+In gunna unscrew my HP chromebook 14 00db and try to remove the battery and put back together and see if it will reset it.. I press tab and I get a menu but I'm not satisfied with what's there.. I'm being cheap but I hate that I cant just decode and fix it myself so I may loose a few hundred bucks
+Link: https://www.reddit.com/r/chromeos/comments/obn8ii/in_gunna_unscrew_my_hp_chromebook_14_00db_and_try/
+
+Help needed downloading opera to a usb drive using chrome OS
+Link: https://www.reddit.com/r/chromeos/comments/136rerz/help_needed_downloading_opera_to_a_usb_drive/
+
+Lenovo Duet 3 8GB vs Android tablet for media consumption
+Link: https://www.reddit.com/r/chromeos/comments/138jwdi/lenovo_duet_3_8gb_vs_android_tablet_for_media/
+
+Has anyone had any luck fixing loose USB-C ports on an Acer 713?
+Link: https://www.reddit.com/r/chromeos/comments/12qaa4s/has_anyone_had_any_luck_fixing_loose_usbc_ports/
+
+Is there a way to stop the mouse from disappearing when I type?
+Link: https://www.reddit.com/r/chromeos/comments/13axd1r/is_there_a_way_to_stop_the_mouse_from/
+
+Is this chromebook good? And what would rough price of it be, thankyou!!!
+Link: https://www.reddit.com/r/chromeos/comments/mmgla5/is_this_chromebook_good_and_what_would_rough/
+
+Acer 311 CB311-9H Linux software?
+Link: https://www.reddit.com/r/chromeos/comments/135m2y1/acer_311_cb3119h_linux_software/
+
+Unsure which model would be best…
+Link: https://www.reddit.com/r/chromeos/comments/w328f2/unsure_which_model_would_be_best/
+
+Unable to enable local data recovery. (Any fixes?)
+Link: https://www.reddit.com/r/chromeos/comments/11uug16/unable_to_enable_local_data_recovery_any_fixes/
+
+What Linux Distro is Better
+Link: https://www.reddit.com/r/chromeos/comments/13ayuko/what_linux_distro_is_better/
+
+Wanna get a Chromebook under 500€
+Link: https://www.reddit.com/r/chromeos/comments/130eqaq/wanna_get_a_chromebook_under_500/
+
+Lenovo Duet 5 vs Surface Go 3
+Link: https://www.reddit.com/r/chromeos/comments/1382ln8/lenovo_duet_5_vs_surface_go_3/
+
+[Troubleshooting] Online sign-in required after password reset, multiuser device
+Link: https://www.reddit.com/r/chromeos/comments/113nv0v/troubleshooting_online_signin_required_after/
+
+Clanedar receives material you revamp in canary version 111
+Link: https://www.reddit.com/r/chromeos/comments/zx5kaz/clanedar_receives_material_you_revamp_in_canary/
+
+Best Budget C/Book
+Link: https://www.reddit.com/r/chromeos/comments/12ma3yt/best_budget_cbook/
+
+I can copy files from my android to my chromebook if my phone picture is on, but not if it is off
+Link: https://www.reddit.com/r/chromeos/comments/xxhkvx/i_can_copy_files_from_my_android_to_my_chromebook/
+
+I downloaded Funimation on my new Chromebook and it’s stuck in portrait mode? Any help would be greatly appreciated.
+Link: https://www.reddit.com/r/chromeos/comments/lntoeg/i_downloaded_funimation_on_my_new_chromebook_and/
+
+Is the Lenovo Chromebook Duet still worth it? If not, any recommendations?
+Link: https://www.reddit.com/r/chromeos/comments/wvueo9/is_the_lenovo_chromebook_duet_still_worth_it_if/
+
+Chromebooks are great at many things, there's no point marketing them in an area where they're lacklustre.
+Link: https://www.reddit.com/r/chromeos/comments/1196rf1/chromebooks_are_great_at_many_things_theres_no/
+
+Why does Google care a lot more about security than Microsoft?
+Link: https://www.reddit.com/r/chromeos/comments/12ibqaa/why_does_google_care_a_lot_more_about_security/
+
+Any Dragonfly Pro users out there yet?
+Link: https://www.reddit.com/r/chromeos/comments/138637o/any_dragonfly_pro_users_out_there_yet/
+
+Connecting an Android Phone to a Crostini for Unlocking the Bootloader (on the phone)
+Link: https://www.reddit.com/r/chromeos/comments/12s0z8k/connecting_an_android_phone_to_a_crostini_for/
+
+Hi, I'm buying a chromebook soon, does it support the apple music app on play store? Like, I've seen that Spotify has a proper ui, does Apple music expand as well? Also, is apk installing possible? Any help would be greatly appreciated, I'm new to the chrome os community 🙃
+Link: https://www.reddit.com/r/chromeos/comments/hon15c/hi_im_buying_a_chromebook_soon_does_it_support/
+
+Black screen and returning to lockscreen in Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/11stouz/black_screen_and_returning_to_lockscreen_in/
+
+2022 Acer Spin 513 — bricked after 6 months
+Link: https://www.reddit.com/r/chromeos/comments/13czmyn/2022_acer_spin_513_bricked_after_6_months/
+
+Do you think Desktop Icons should be an optional feature in ChromeOS?
+Link: https://www.reddit.com/r/chromeos/comments/11hyx9p/do_you_think_desktop_icons_should_be_an_optional/
+
+About to buy the Samsung Chromebook 4 but would like to know if it has Linux app support.
+Link: https://www.reddit.com/r/chromeos/comments/i2mv52/about_to_buy_the_samsung_chromebook_4_but_would/
+
+Transparent Task Bar? Feature or bug? If feature, how do I turn it off?
+Link: https://www.reddit.com/r/chromeos/comments/upn3u4/transparent_task_bar_feature_or_bug_if_feature/
+
+Does tap to translate work on Chrome OS in the Google Chrome browser?
+Link: https://www.reddit.com/r/chromeos/comments/12xvkba/does_tap_to_translate_work_on_chrome_os_in_the/
+
+Should I be worried about my battery?
+Link: https://www.reddit.com/r/chromeos/comments/135h8vx/should_i_be_worried_about_my_battery/
+
+Is it possible to use a DVD player with a HDMI cable to play DVDs on a Chromebook? Or can I use the DVD player with my Chromebook at all?
+Link: https://www.reddit.com/r/chromeos/comments/122zcut/is_it_possible_to_use_a_dvd_player_with_a_hdmi/
+
+Is there a way to create a shortcut to turn on/off Bluetooth?
+Link: https://www.reddit.com/r/chromeos/comments/13cblt1/is_there_a_way_to_create_a_shortcut_to_turn_onoff/
+
+Interesting Bug With the "Show Taps" Flag. By decreasing brightness all the way down while touching the screen, when it turns back on automatically, there is a chance it will add a permanent dot. Already sent a bug report, just thought id share (Not sure if its already known) 104.0.5112.23
+Link: https://www.reddit.com/r/chromeos/comments/vrhu96/interesting_bug_with_the_show_taps_flag_by/
+
+Is ChromeOS great for content creation?
+Link: https://www.reddit.com/r/chromeos/comments/12pwejw/is_chromeos_great_for_content_creation/
+
+ELI5 Hyperthreading & Risks?
+Link: https://www.reddit.com/r/chromeos/comments/12kjgbn/eli5_hyperthreading_risks/
+
+Will a Chromebook be fine for simply "STRICTLY" PowerPoint?
+Link: https://www.reddit.com/r/chromeos/comments/133usl3/will_a_chromebook_be_fine_for_simply_strictly/
+
+Drowning in options
+Link: https://www.reddit.com/r/chromeos/comments/12bsm7v/drowning_in_options/
+
+Is Android a Solution for EOL on Chromebooks?
+Link: https://www.reddit.com/r/chromeos/comments/12ocl2w/is_android_a_solution_for_eol_on_chromebooks/
+
+How quickly do chromebooks get end of lifed?
+Link: https://www.reddit.com/r/chromeos/comments/13b6wv2/how_quickly_do_chromebooks_get_end_of_lifed/
+
+Chromebook has to be restarted almost every time I go to use it
+Link: https://www.reddit.com/r/chromeos/comments/y7pvya/chromebook_has_to_be_restarted_almost_every_time/
+
+Looking for a Chromebook for portable writing & art
+Link: https://www.reddit.com/r/chromeos/comments/12yvz7x/looking_for_a_chromebook_for_portable_writing_art/
+
+My kid's account freezes chromeOS on Lenovo Duet 2
+Link: https://www.reddit.com/r/chromeos/comments/137d3v7/my_kids_account_freezes_chromeos_on_lenovo_duet_2/
+
+Privacy from google... sometimes overhyped?
+Link: https://www.reddit.com/r/chromeos/comments/12axb3m/privacy_from_google_sometimes_overhyped/
+
+I have Chromebook, & I'm trying to migrate a cool chrome extension to my Windows chrome browser, but the webstore stopped hosting the extension. I cant find an identical extension either. I wish I had downloaded the .crx when it was still at the webstore. The extension is called "Share URLs", it....
+Link: https://www.reddit.com/r/chromeos/comments/r3udjh/i_have_chromebook_im_trying_to_migrate_a_cool/
+
+When I bought my Asus C302, I thought I would be using a lot of tablet mode and android apps. Turns out I can't even remember the last time when I used it like a tablet even though I use my chromebook more than couple of hours a day.
+Link: https://www.reddit.com/r/chromeos/comments/6ujfft/when_i_bought_my_asus_c302_i_thought_i_would_be/
+
+If you had to pick between greater than 4gb of RAM, or greater than 64gb of onboard storage, which would you go for? I ask because it seems that I have to.
+Link: https://www.reddit.com/r/chromeos/comments/a2rtgi/if_you_had_to_pick_between_greater_than_4gb_of/
+
+is chromeos support dGPU? if not how to disable it?
+Link: https://www.reddit.com/r/chromeos/comments/x5p9x2/is_chromeos_support_dgpu_if_not_how_to_disable_it/
+
+Recommended Chromebook with number pad
+Link: https://www.reddit.com/r/chromeos/comments/13679dt/recommended_chromebook_with_number_pad/
+
+Future of Touch/Tablet Usage for ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/zdylnl/future_of_touchtablet_usage_for_chromeos/
+
+If systemboard does not have charging lights on by itself, does it 100% rules it completely dead board?
+Link: https://www.reddit.com/r/chromeos/comments/xvhssh/if_systemboard_does_not_have_charging_lights_on/
+
+2-in-1 ChromeBook vs Android Tablet
+Link: https://www.reddit.com/r/chromeos/comments/11debb1/2in1_chromebook_vs_android_tablet/
+
+Can a Chromebook really be worth $1,500? If it's Google's own Intel i7-powered Chromebook, the answer's heck yeah! This is the best Chromebook to date.
+Link: https://www.reddit.com/r/chromeos/comments/8okavo/can_a_chromebook_really_be_worth_1500_if_its/
+
+Increasing screen brightness past max?
+Link: https://www.reddit.com/r/chromeos/comments/132yox9/increasing_screen_brightness_past_max/
+
+Just got my own Chromebook, HP 11A G6, serving me well both portable and desktop. Any cool things I can do with it? (Backing up my Crostini in this shot)
+Link: https://www.reddit.com/r/chromeos/comments/l39vpt/just_got_my_own_chromebook_hp_11a_g6_serving_me/
+
+I'm looking at getting an m3 or 3965y pixel slate, mainly for games while on holiday, is it worth it? 3695y is £180 or m3 is £215, thanks
+Link: https://www.reddit.com/r/chromeos/comments/12kiwnd/im_looking_at_getting_an_m3_or_3965y_pixel_slate/
+
+OS in browser that actually is useful?
+Link: https://www.reddit.com/r/chromeos/comments/11futlf/os_in_browser_that_actually_is_useful/
+
+So I just got a new phone and thought it would be fun to run geekbench5 on it and my CB for fun
+Link: https://www.reddit.com/r/chromeos/comments/dss7vn/so_i_just_got_a_new_phone_and_thought_it_would_be/
+
+Best places to look for Pixelbooks Go in the UK?
+Link: https://www.reddit.com/r/chromeos/comments/130nki6/best_places_to_look_for_pixelbooks_go_in_the_uk/
+
+Is it worth buying a cheap Chromebook over a traditional laptop? If so, any recommendations?,
+Link: https://www.reddit.com/r/chromeos/comments/vp8118/is_it_worth_buying_a_cheap_chromebook_over_a/
+
+I would like to buy Rollercoaster Tycoon Classic from the play store. My chromebook does not have touchscreen so I’m not sure if I would be able to play. I have heard about problems with zooming in.
+Link: https://www.reddit.com/r/chromeos/comments/cwue1z/i_would_like_to_buy_rollercoaster_tycoon_classic/
+
+Lenovo Duet 3 8gb refurb for $170 on ebay
+Link: https://www.reddit.com/r/chromeos/comments/139rmnz/lenovo_duet_3_8gb_refurb_for_170_on_ebay/
+
+Wich Chromebook for School
+Link: https://www.reddit.com/r/chromeos/comments/138lwp5/wich_chromebook_for_school/
+
+Hey guys, I was trying to use my Chromebook when I noticed that my phone couldn't reconnect, it is a Samsung A7. Idk if that may be the issue but I'm inside a Google family for the stadia games. Hope someone can help.
+Link: https://www.reddit.com/r/chromeos/comments/oiwqrs/hey_guys_i_was_trying_to_use_my_chromebook_when_i/
+
+#full-restore is a cool flag I just found, many people might like this, enabling the flag creates a new sub-menu in the ChromeOS settings menu labeled “on startup” and as it implies, it gives you the option of what you’d like to do when you start your device.
+Link: https://www.reddit.com/r/chromeos/comments/le2c5k/fullrestore_is_a_cool_flag_i_just_found_many/
+
+Chromebook with thin, detachable keyboard?
+Link: https://www.reddit.com/r/chromeos/comments/125hrma/chromebook_with_thin_detachable_keyboard/
+
+Asking for a chromebook as company laptop
+Link: https://www.reddit.com/r/chromeos/comments/12e17qm/asking_for_a_chromebook_as_company_laptop/
+
+(Acer Chromebook 315) All of a sudden when I click on Facebook notifications in chrome it is launching the app. I would prefer to stay in the browser.
+Link: https://www.reddit.com/r/chromeos/comments/xa5so9/acer_chromebook_315_all_of_a_sudden_when_i_click/
+
+If my Chromebook has the Play Store and I have an emulator, can I buy a USB controller to use with the emulator that would be plug and play?
+Link: https://www.reddit.com/r/chromeos/comments/5pknsf/if_my_chromebook_has_the_play_store_and_i_have_an/
+
+Most seamless combo of Android phone + watch to use with ChromeOS?
+Link: https://www.reddit.com/r/chromeos/comments/12rzptk/most_seamless_combo_of_android_phone_watch_to_use/
+
+If you were optimizing for low price and light weight, what Chromebooks would you be looking at?
+Link: https://www.reddit.com/r/chromeos/comments/bqzneh/if_you_were_optimizing_for_low_price_and_light/
+
+HELP!! This is my school laptop and would like to know if I can fix it before I have to pay for it.
+Link: https://www.reddit.com/r/chromeos/comments/d6lq6n/help_this_is_my_school_laptop_and_would_like_to/
+
+Anyone do UX/UI from a ChromeBook?
+Link: https://www.reddit.com/r/chromeos/comments/138urmt/anyone_do_uxui_from_a_chromebook/
+
+Is ARCVM worse than usual?
+Link: https://www.reddit.com/r/chromeos/comments/135yxkm/is_arcvm_worse_than_usual/
+
+Lenovo ideapad 5i fan noise - am I stuck with it?
+Link: https://www.reddit.com/r/chromeos/comments/136mxuf/lenovo_ideapad_5i_fan_noise_am_i_stuck_with_it/
+
+Linux, Etcher, and the tale of why I have 2 patches of hair missing from the top of my head.
+Link: https://www.reddit.com/r/chromeos/comments/12n4y8r/linux_etcher_and_the_tale_of_why_i_have_2_patches/
+
+Unable to sign into Chromebook due to weird 2-step message "Open Settings App, Tap Google, Manage Google Account.." etc
+Link: https://www.reddit.com/r/chromeos/comments/11rcl0f/unable_to_sign_into_chromebook_due_to_weird_2step/
+
+Chromeos or microsoft managed
+Link: https://www.reddit.com/r/chromeos/comments/12tq92s/chromeos_or_microsoft_managed/
+
+If you could design a chromebook, what specs would it have?
+Link: https://www.reddit.com/r/chromeos/comments/67smy2/if_you_could_design_a_chromebook_what_specs_would/
+
+HP Dragonfly Pro Canada
+Link: https://www.reddit.com/r/chromeos/comments/11wj1ly/hp_dragonfly_pro_canada/
+
+How's The Original Lenovo Duet Holding Up Today?
+Link: https://www.reddit.com/r/chromeos/comments/12hk70x/hows_the_original_lenovo_duet_holding_up_today/
+
+Idea for continued use of EOL Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/112el3q/idea_for_continued_use_of_eol_chromebook/
+
+anybody have any ideas why this might be happening or how I can fix it? I have had to uninstall crostini because of this and I constantly receive notifications when it is installed that my Chromebook might lose vital files if I don't delete things immediately
+Link: https://www.reddit.com/r/chromeos/comments/m7y7jk/anybody_have_any_ideas_why_this_might_be/
+
+Thinking of buying ASUS C523 and some extra ram for it, would it be simple to install?
+Link: https://www.reddit.com/r/chromeos/comments/i18f9m/thinking_of_buying_asus_c523_and_some_extra_ram/
+
+ChromeOS processors
+Link: https://www.reddit.com/r/chromeos/comments/12gvqnt/chromeos_processors/
+
+Wouldn't it be nice if we could put items on the ChromeOS desktop?
+Link: https://www.reddit.com/r/chromeos/comments/6mb3ir/wouldnt_it_be_nice_if_we_could_put_items_on_the/
+
+Anyone like my foody wallpaper on my Chromebook?(Marked as NSFW since I couldn't use a spoiler tag. Not sure if this would get removed, I just joined today and there wasn't a mention about this)
+Link: https://www.reddit.com/r/chromeos/comments/u096aw/anyone_like_my_foody_wallpaper_on_my/
+
+Google, add a toggle to give Crostini CPU priority. Some of us like third party music clients, etc.
+Link: https://www.reddit.com/r/chromeos/comments/10k2luk/google_add_a_toggle_to_give_crostini_cpu_priority/
+
+Google should add tabs to the ChromeOS File Manager
+Link: https://www.reddit.com/r/chromeos/comments/xm61hq/google_should_add_tabs_to_the_chromeos_file/
+
+How do i get chrome "Tabs" back?
+Link: https://www.reddit.com/r/chromeos/comments/1258kbw/how_do_i_get_chrome_tabs_back/
+
+How do I change taskbar color? After updating it got changed from gray to this blue color and I want gray back.
+Link: https://www.reddit.com/r/chromeos/comments/11rzfzx/how_do_i_change_taskbar_color_after_updating_it/
+
+Should I be worried about my battery?
+Link: https://www.reddit.com/r/chromeos/comments/135h8vx/should_i_be_worried_about_my_battery/
+
+Acer Spin 714 stopped detecting external monitor - why?
+Link: https://www.reddit.com/r/chromeos/comments/12om53g/acer_spin_714_stopped_detecting_external_monitor/
+
+Powerwashed my dad’s old Chromebook (he passed in 2015). Is it worth using now that they don’t provide updates? Apps still work. It would just be for browsing/streaming really. What privacy concerns should I have? Thanks!
+Link: https://www.reddit.com/r/chromeos/comments/i9me4j/powerwashed_my_dads_old_chromebook_he_passed_in/
+
+Chromebook stops getting updates in July. Any ideas for repurposing?
+Link: https://www.reddit.com/r/chromeos/comments/11bjjc7/chromebook_stops_getting_updates_in_july_any/
+
+Trying to install .deb file, "Terminal" opens a weird menu?
+Link: https://www.reddit.com/r/chromeos/comments/110l6d0/trying_to_install_deb_file_terminal_opens_a_weird/
+
+OTP generator syncing with Google Authenticator did not come to ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/12zxnvd/otp_generator_syncing_with_google_authenticator/
+
+developer mode sudo su is not working
+Link: https://www.reddit.com/r/chromeos/comments/11ep2e4/developer_mode_sudo_su_is_not_working/
+
+So is this new UI permanent or...?
+Link: https://www.reddit.com/r/chromeos/comments/1030lgk/so_is_this_new_ui_permanent_or/
+
+Drag and drop not working from Files app
+Link: https://www.reddit.com/r/chromeos/comments/11dkdu2/drag_and_drop_not_working_from_files_app/
+
+Stable M109 is out!
+Link: https://www.reddit.com/r/chromeos/comments/10balrr/stable_m109_is_out/
+
+Premium chromebooks should be able to officially bootcamp into windows
+Link: https://www.reddit.com/r/chromeos/comments/12kii6n/premium_chromebooks_should_be_able_to_officially/
+
+Sometimes I find Spin 513-H (Lazor) completely off and it never turns on without a charger even if it has enough battery, also some Wi-Fi problems
+Link: https://www.reddit.com/r/chromeos/comments/11sua63/sometimes_i_find_spin_513h_lazor_completely_off/
+
+Want enhanced Quake 1 on your Chromebook? Here's how.
+Link: https://www.reddit.com/r/chromeos/comments/12dvym7/want_enhanced_quake_1_on_your_chromebook_heres_how/
+
+Feature request - FIDO2 security key to login ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/121jbg3/feature_request_fido2_security_key_to_login/
+
+chrome os features that should be added
+Link: https://www.reddit.com/r/chromeos/comments/z0gdys/chrome_os_features_that_should_be_added/
+
+Signing in with .edu
+Link: https://www.reddit.com/r/chromeos/comments/11qj9w7/signing_in_with_edu/
+
+They should allow apps widgets in desktop.
+Link: https://www.reddit.com/r/chromeos/comments/hfsygc/they_should_allow_apps_widgets_in_desktop/
+
+What happened with Lacros and Android 13?
+Link: https://www.reddit.com/r/chromeos/comments/11g4d66/what_happened_with_lacros_and_android_13/
+
+I took the plunge, and my Chromebook will be at my doorstep tomorrow. What are some must have apps/extensions that I should add to my Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/35pk4g/i_took_the_plunge_and_my_chromebook_will_be_at_my/
+
+Chromebook --> Canon C6780 no driver available == Need help with a print solution
+Link: https://www.reddit.com/r/chromeos/comments/11yesqz/chromebook_canon_c6780_no_driver_available_need/
+
+Modern Chromebook closest to OG Pixelbook?
+Link: https://www.reddit.com/r/chromeos/comments/10rwnws/modern_chromebook_closest_to_og_pixelbook/
+
+Chromebook for my partner
+Link: https://www.reddit.com/r/chromeos/comments/11d8pbh/chromebook_for_my_partner/
+
+Questions about the Acer Spin 14 that I'm interested in buying
+Link: https://www.reddit.com/r/chromeos/comments/11wdsw6/questions_about_the_acer_spin_14_that_im/
+
+Should I worry about 8 GB of RAM?
+Link: https://www.reddit.com/r/chromeos/comments/10hmw41/should_i_worry_about_8_gb_of_ram/
+
+I am stuck in tablet mode
+Link: https://www.reddit.com/r/chromeos/comments/109kez3/i_am_stuck_in_tablet_mode/
+
+Adding app to desktop
+Link: https://www.reddit.com/r/chromeos/comments/11569kx/adding_app_to_desktop/
+
+[Question] Should I setup my kids' Chromebooks before they open them on Christmas day?
+Link: https://www.reddit.com/r/chromeos/comments/eenuu9/question_should_i_setup_my_kids_chromebooks/
+
+An old, offline Chromebook's outdated but recognized access credential may be a backdoor solution to regaining access to an otherwise inaccessible account that is set to receive crucial verification emails. To sync or not to sync...
+Link: https://www.reddit.com/r/chromeos/comments/xlq1fv/an_old_offline_chromebooks_outdated_but/
+
+Managed Dell 3100. System taking up 31 of 32 gb
+Link: https://www.reddit.com/r/chromeos/comments/11qhxah/managed_dell_3100_system_taking_up_31_of_32_gb/
+
+Updating Chromebook Comparison Chart - what should we change/add next?
+Link: https://www.reddit.com/r/chromeos/comments/5p3mem/updating_chromebook_comparison_chart_what_should/
+
+So did they ever add the ability for android apps to read off external storage (ala VLC app)?
+Link: https://www.reddit.com/r/chromeos/comments/e6avz7/so_did_they_ever_add_the_ability_for_android_apps/
+
+Lenovo Idea Pad Duet 5 vs HP x360 14c
+Link: https://www.reddit.com/r/chromeos/comments/11cijgu/lenovo_idea_pad_duet_5_vs_hp_x360_14c/
+
+Help. My toddler got a hold of my chromebook for 10 minutes which was enough to change to this chromatic (no pun intended) inverted color scheme. They didn't add any extensions and tried googling it to no avail. It appears on everything not only browser. Any suggestions?
+Link: https://www.reddit.com/r/chromeos/comments/a8dxyh/help_my_toddler_got_a_hold_of_my_chromebook_for/
+
+Is there any way to fix the dead/stuck pixels? Every time I power on the chromebook, it starts like this but slowly gets bigger. The longer you leave the chromebook off, the smaller they get, so they aren’t permanently dead. What should I do/any solutions?
+Link: https://www.reddit.com/r/chromeos/comments/ept4g8/is_there_any_way_to_fix_the_deadstuck_pixels/
+
+Samsung Chromebook Plus V2 -- Android 11
+Link: https://www.reddit.com/r/chromeos/comments/11nu9yx/samsung_chromebook_plus_v2_android_11/
+
+which particular android apps do you use on chromebook, and why?
+Link: https://www.reddit.com/r/chromeos/comments/zl4pym/which_particular_android_apps_do_you_use_on/
+
+Apps and add-ons should be rated
+Link: https://www.reddit.com/r/chromeos/comments/dgf91r/apps_and_addons_should_be_rated/
+
+How important is a long UAE date?
+Link: https://www.reddit.com/r/chromeos/comments/zvlza5/how_important_is_a_long_uae_date/
+
+Chromebook vs a tablet for entertainment on the go
+Link: https://www.reddit.com/r/chromeos/comments/1061yqo/chromebook_vs_a_tablet_for_entertainment_on_the_go/
+
+1.5ghz Chromebook only using .4ghz max. Plus, Chromebook with Verizon LTE active, who pays for it? Is it free?
+Link: https://www.reddit.com/r/chromeos/comments/11wzfpc/15ghz_chromebook_only_using_4ghz_max_plus/
+
+Pixelbook Go M3 - freezing and stuttering on almost every game
+Link: https://www.reddit.com/r/chromeos/comments/11vjgva/pixelbook_go_m3_freezing_and_stuttering_on_almost/
+
+Showerthought: They should have retroactively renamed the 2015 Chromebook Pixel to Pixelbook 1 so the 2017 model could be the Pixelbook 2 , making the phones and laptop model numbers match.
+Link: https://www.reddit.com/r/chromeos/comments/7yfjk7/showerthought_they_should_have_retroactively/
+
+How to manage multiple accounts ?
+Link: https://www.reddit.com/r/chromeos/comments/zff0b0/how_to_manage_multiple_accounts/
+
+I recently added mouse & keyboard support to my Android game and would love some feedback!
+Link: https://www.reddit.com/r/chromeos/comments/z962xg/i_recently_added_mouse_keyboard_support_to_my/
+
+If you are trying to install the linux version of slack on your chromebook READ THIS FIRST!
+Link: https://www.reddit.com/r/chromeos/comments/yivskh/if_you_are_trying_to_install_the_linux_version_of/
+
+Chromebooks at home and school.
+Link: https://www.reddit.com/r/chromeos/comments/1071sag/chromebooks_at_home_and_school/
+
+Do I really have to type all of, ctrl+shift+u+2015+enter, each and every time I need to have an mdash in ChromeOS? On a Mac, it's a simple option+shift+-, and even on Android, it's a simple long-hold+select on the regular small dash. Same for …, «, », and other punctuation… Isn't there a better way?
+Link: https://www.reddit.com/r/chromeos/comments/wfotb6/do_i_really_have_to_type_all_of/
+
+What's the state of Arm vs Intel/AMD in 2022?
+Link: https://www.reddit.com/r/chromeos/comments/yz3c2o/whats_the_state_of_arm_vs_intelamd_in_2022/
+
+Is a Chrome book a nice gift?
+Link: https://www.reddit.com/r/chromeos/comments/zj5hnc/is_a_chrome_book_a_nice_gift/
+
+8GB RAM Chromebooks: Will they (and should they) become a reality?
+Link: https://www.reddit.com/r/chromeos/comments/32pt1j/8gb_ram_chromebooks_will_they_and_should_they/
+
+Manufacturer and security
+Link: https://www.reddit.com/r/chromeos/comments/zh7vei/manufacturer_and_security/
+
+Parent: Confused by how child accesses school account setup under personal account
+Link: https://www.reddit.com/r/chromeos/comments/z7aa5a/parent_confused_by_how_child_accesses_school/
+
+What spec Chromebook should my mum get?
+Link: https://www.reddit.com/r/chromeos/comments/zy6jda/what_spec_chromebook_should_my_mum_get/
+
+Email client chromebook
+Link: https://www.reddit.com/r/chromeos/comments/xugf5l/email_client_chromebook/
+
+My impression of Chrome OS
+Link: https://www.reddit.com/r/chromeos/comments/wmlrds/my_impression_of_chrome_os/
+
+Link to "hidden" Amazon add-to-cart button for the $300 4GB/16GB Full-HD IPS Acer 15 CB5 model; some reason to doubt that they will ever ship
+Link: https://www.reddit.com/r/chromeos/comments/34fjyz/link_to_hidden_amazon_addtocart_button_for_the/
+
+Trouble logging in to a hotmail/google account.
+Link: https://www.reddit.com/r/chromeos/comments/z256e7/trouble_logging_in_to_a_hotmailgoogle_account/
+
+Very simple sleeve for Spin 713 ?
+Link: https://www.reddit.com/r/chromeos/comments/11299t9/very_simple_sleeve_for_spin_713/
+
+Google: "Buy our Chromebooks - they are viable alternatives to Windows machines"
+Link: https://www.reddit.com/r/chromeos/comments/xzxpaj/google_buy_our_chromebooks_they_are_viable/
+
+Recommendation: Slate Replacement
+Link: https://www.reddit.com/r/chromeos/comments/vjyl3m/recommendation_slate_replacement/
+
+Basic things missing in ChromeOS: visual indicator that volume is off AND quicker toggle for do-not-disturb
+Link: https://www.reddit.com/r/chromeos/comments/xrvnaa/basic_things_missing_in_chromeos_visual_indicator/
+
+Is the Chromebook right for me and my specific uses?
+Link: https://www.reddit.com/r/chromeos/comments/xvnzgz/is_the_chromebook_right_for_me_and_my_specific/
+
+Spotify Offline - ChromeOS - Workaround -> Linux App
+Link: https://www.reddit.com/r/chromeos/comments/xznxty/spotify_offline_chromeos_workaround_linux_app/
+
+Issue using Azure as SAML IdP on Chromebooks
+Link: https://www.reddit.com/r/chromeos/comments/10g27gh/issue_using_azure_as_saml_idp_on_chromebooks/
+
+Linux Dev. Env. - Issue with using Piper for configuring Glorious Model D
+Link: https://www.reddit.com/r/chromeos/comments/wune8y/linux_dev_env_issue_with_using_piper_for/
+
+New from Dell (Amazon) Chromebook 11 i3 is managed by a school. I looked up the domain and they use HP's, did they manage mine by mistake?, what should I do?
+Link: https://www.reddit.com/r/chromeos/comments/3lzx5o/new_from_dell_amazon_chromebook_11_i3_is_managed/
+
+Add-on for group texting from Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/zrxc5p/addon_for_group_texting_from_chromebook/
+
+Expressing complaints about ARCVM (Android 11)
+Link: https://www.reddit.com/r/chromeos/comments/x7eir1/expressing_complaints_about_arcvm_android_11/
+
+XE303C12 Powerwash question
+Link: https://www.reddit.com/r/chromeos/comments/z9k039/xe303c12_powerwash_question/
+
+Beta Testing a free, unlimited File Transfer website
+Link: https://www.reddit.com/r/chromeos/comments/yluhzl/beta_testing_a_free_unlimited_file_transfer/
+
+Chromebook for older family member or Windows laptop?
+Link: https://www.reddit.com/r/chromeos/comments/y6nilc/chromebook_for_older_family_member_or_windows/
+
+Dualboot Linux and chromeOS
+Link: https://www.reddit.com/r/chromeos/comments/tndx1i/dualboot_linux_and_chromeos/
+
+Uses for an old Chromebook without a display?
+Link: https://www.reddit.com/r/chromeos/comments/xiru88/uses_for_an_old_chromebook_without_a_display/
+
+[Samsung, new&cheap unit] Cannot play many common video-files, should I be looking for new media-players, or codec packs, or...?
+Link: https://www.reddit.com/r/chromeos/comments/u6idfg/samsung_newcheap_unit_cannot_play_many_common/
+
+Recommended Flags for Duet on 100 Stable
+Link: https://www.reddit.com/r/chromeos/comments/u25c9p/recommended_flags_for_duet_on_100_stable/
+
+"Android Instant Apps on Chrome OS: Yes, it *should* work. They have to test it, but the plan is yes absolutely."
+Link: https://www.reddit.com/r/chromeos/comments/4k4evp/android_instant_apps_on_chrome_os_yes_it_should/
+
+Replace the battery or buy a new one?
+Link: https://www.reddit.com/r/chromeos/comments/z1b71z/replace_the_battery_or_buy_a_new_one/
+
+Steam Gaming by Vulkan for Crostini, and This Might Be What Official “Steam for Chromeos(Aka Borealis)” Would Be like for Chromebook Not in the List
+Link: https://www.reddit.com/r/chromeos/comments/uq13t0/steam_gaming_by_vulkan_for_crostini_and_this/
+
+Google drive integration in Android can be confusing
+Link: https://www.reddit.com/r/chromeos/comments/z2qc6v/google_drive_integration_in_android_can_be/
+
+Kudos to the gallery app
+Link: https://www.reddit.com/r/chromeos/comments/ydb0if/kudos_to_the_gallery_app/
+
+" add services" optopn gone from pixelbook go. Trying to add onedrive again but all I see is "smb file share" under services and no option to "add services". Am I missing something?
+Link: https://www.reddit.com/r/chromeos/comments/ybbnrb/add_services_optopn_gone_from_pixelbook_go_trying/
+
+How do I add a university account to a Chromebook as a user?
+Link: https://www.reddit.com/r/chromeos/comments/z44fws/how_do_i_add_a_university_account_to_a_chromebook/
+
+Is there any Samsung Chromebook Plus lover like me?
+Link: https://www.reddit.com/r/chromeos/comments/t3i71g/is_there_any_samsung_chromebook_plus_lover_like_me/
+
+According the the Acer website the CB5 models features Touch and go, which should indicate they have a touchscreen. Can it be true?
+Link: https://www.reddit.com/r/chromeos/comments/2dyx0p/according_the_the_acer_website_the_cb5_models/
+
+How can I share documents from an Android device or PC to a Chromebook without Internet?
+Link: https://www.reddit.com/r/chromeos/comments/ydzf3z/how_can_i_share_documents_from_an_android_device/
+
+Chromebooks with standard keyboard layout?
+Link: https://www.reddit.com/r/chromeos/comments/y379x8/chromebooks_with_standard_keyboard_layout/
+
+I finally got a Chromebook Lenovo Flex 5i
+Link: https://www.reddit.com/r/chromeos/comments/tqkz7i/i_finally_got_a_chromebook_lenovo_flex_5i/
+
+Can’t login to my Chromebook.
+Link: https://www.reddit.com/r/chromeos/comments/xnwwoe/cant_login_to_my_chromebook/
+
+Online Video Editors Suggestions?
+Link: https://www.reddit.com/r/chromeos/comments/w8jm1s/online_video_editors_suggestions/
+
+After using chromebooks for 7 years without issue my chromebooks are now giving me nothing but problems
+Link: https://www.reddit.com/r/chromeos/comments/t6r5a3/after_using_chromebooks_for_7_years_without_issue/
+
+The current implementation of Chrome's Material Design settings is embarassing. Was a design team even involved? They should take a cue from Android's preferences in terms of layout.
+Link: https://www.reddit.com/r/chromeos/comments/3qqioo/the_current_implementation_of_chromes_material/
+
+[Question] How can I find out which website or 'app' wants to access my microphone?
+Link: https://www.reddit.com/r/chromeos/comments/z20jm4/question_how_can_i_find_out_which_website_or_app/
+
+Recommendation for WFH/Virtual environment
+Link: https://www.reddit.com/r/chromeos/comments/vmptg5/recommendation_for_wfhvirtual_environment/
+
+Network File Shares Worked Last Night But No Longer...
+Link: https://www.reddit.com/r/chromeos/comments/y40t0d/network_file_shares_worked_last_night_but_no/
+
+Does MS Office works offline in a Chromebook? Flawlessly? Any quirks working with the Office PWA’s?
+Link: https://www.reddit.com/r/chromeos/comments/wre7y8/does_ms_office_works_offline_in_a_chromebook/
+
+Possible to get Chrome PlayStore to install the Android App rather than the PWA?
+Link: https://www.reddit.com/r/chromeos/comments/yuuv4m/possible_to_get_chrome_playstore_to_install_the/
+
+Ideapad Duet 3 Chromebook - USI Pen
+Link: https://www.reddit.com/r/chromeos/comments/v3yhzk/ideapad_duet_3_chromebook_usi_pen/
+
+Should I get a Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/wj2uwq/should_i_get_a_chromebook/
+
+Help with new Chromebook (Lenovo Duet)
+Link: https://www.reddit.com/r/chromeos/comments/vyyrwb/help_with_new_chromebook_lenovo_duet/
+
+Chrome browser issue - HELP!
+Link: https://www.reddit.com/r/chromeos/comments/t8x1cn/chrome_browser_issue_help/
+
+Need help setting up workspace for multiple users on 8 Chromebooks
+Link: https://www.reddit.com/r/chromeos/comments/yifjw6/need_help_setting_up_workspace_for_multiple_users/
+
+Chromebook Choices?
+Link: https://www.reddit.com/r/chromeos/comments/vzvbzj/chromebook_choices/
+
+Unable to properly load Dynamics CRM site
+Link: https://www.reddit.com/r/chromeos/comments/x8apj6/unable_to_properly_load_dynamics_crm_site/
+
+Patrial Split (Zones) Coming to ChromeOS - Finally
+Link: https://www.reddit.com/r/chromeos/comments/v8ubiw/patrial_split_zones_coming_to_chromeos_finally/
+
+Acer Spin 713 (Refurb 2020) Impressions
+Link: https://www.reddit.com/r/chromeos/comments/qkdyxw/acer_spin_713_refurb_2020_impressions/
+
+Galaxy Chromebook Gen 1 Trackpad $6 USD Copper Tape Fix
+Link: https://www.reddit.com/r/chromeos/comments/umsgxe/galaxy_chromebook_gen_1_trackpad_6_usd_copper/
+
+Google needs to go back to 6 weeks between updates because these are clearly not being tested enough
+Link: https://www.reddit.com/r/chromeos/comments/tz1weu/google_needs_to_go_back_to_6_weeks_between/
+
+Help with audio interface problems
+Link: https://www.reddit.com/r/chromeos/comments/wnod4l/help_with_audio_interface_problems/
+
+Lenovo Chromebook 14e Gen 2 Review-Mechanical keyboard on a laptop for cheap
+Link: https://www.reddit.com/r/chromeos/comments/x5i7b3/lenovo_chromebook_14e_gen_2_reviewmechanical/
+
+HP Chromebook x360 14b troubleshooting
+Link: https://www.reddit.com/r/chromeos/comments/xtx41y/hp_chromebook_x360_14b_troubleshooting/
+
+Announcing r/ChromeOSFlex
+Link: https://www.reddit.com/r/chromeos/comments/swjin4/announcing_rchromeosflex/
+
+ChromeOS debug and developer mode keyboard shortcuts
+Link: https://www.reddit.com/r/chromeos/comments/x9ffov/chromeos_debug_and_developer_mode_keyboard/
+
+How to use a chromebook that stopped getting software updates?
+Link: https://www.reddit.com/r/chromeos/comments/ufgiu0/how_to_use_a_chromebook_that_stopped_getting/
+
+Every Chromebook should be able to act as a pass through for Android phones
+Link: https://www.reddit.com/r/chromeos/comments/rwa75l/every_chromebook_should_be_able_to_act_as_a_pass/
+
+Chromebook and HP SmartTank 7000 Series printers
+Link: https://www.reddit.com/r/chromeos/comments/wzry5b/chromebook_and_hp_smarttank_7000_series_printers/
+
+What are you hoping for this year from Chrome OS?
+Link: https://www.reddit.com/r/chromeos/comments/sntd09/what_are_you_hoping_for_this_year_from_chrome_os/
+
+What Is True? Did I Get a Bad Tip? Someone Says COS Cannot Run Majority of Android Applications. - Android on ChromeOS Question -
+Link: https://www.reddit.com/r/chromeos/comments/vec4px/what_is_true_did_i_get_a_bad_tip_someone_says_cos/
+
+Brand New Acer Chromebook 317 - Defective Four Times in a Row!
+Link: https://www.reddit.com/r/chromeos/comments/v1npei/brand_new_acer_chromebook_317_defective_four/
+
+Chrome OS Stable channel got promoted to Chrome OS 85. This is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/ikzbwp/chrome_os_stable_channel_got_promoted_to_chrome/
+
+Refurbished Dell Latitude Chromebook (i3 version) on eBay -- $175
+Link: https://www.reddit.com/r/chromeos/comments/vd409d/refurbished_dell_latitude_chromebook_i3_version/
+
+Viewing files from a secondary account in the Files app
+Link: https://www.reddit.com/r/chromeos/comments/ug2k37/viewing_files_from_a_secondary_account_in_the/
+
+Chrome OS Adventure Installing firefox
+Link: https://www.reddit.com/r/chromeos/comments/tqr1fg/chrome_os_adventure_installing_firefox/
+
+Chrome OS Beta channel got promoted to Chrome OS 84. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/gvn7n2/chrome_os_beta_channel_got_promoted_to_chrome_os/
+
+OS is now at 105
+Link: https://www.reddit.com/r/chromeos/comments/xjpm3z/os_is_now_at_105/
+
+My Recommended Chrome Flags for Chrome OS 83 Stable
+Link: https://www.reddit.com/r/chromeos/comments/gs0i2g/my_recommended_chrome_flags_for_chrome_os_83/
+
+Should I still use old Chromebook with outdated ChromeOs
+Link: https://www.reddit.com/r/chromeos/comments/tj7qsz/should_i_still_use_old_chromebook_with_outdated/
+
+Trouble logging into gmail/calendar after successfully logging into chromebook
+Link: https://www.reddit.com/r/chromeos/comments/ru2req/trouble_logging_into_gmailcalendar_after/
+
+Things to be aware of when considering a Chrome OS tablet as an alternative to an Android tablet.
+Link: https://www.reddit.com/r/chromeos/comments/pou1iy/things_to_be_aware_of_when_considering_a_chrome/
+
+Chrome OS Stable channel got promoted to Chrome OS 84. Here is everything that changed!
+Link: https://www.reddit.com/r/chromeos/comments/hymc42/chrome_os_stable_channel_got_promoted_to_chrome/
+
+Youtube occasionally freezes
+Link: https://www.reddit.com/r/chromeos/comments/vp1h1c/youtube_occasionally_freezes/
+
+UPDATE: It seems Google has pulled the .165 stable release. It should now be safe to proceed as normal. IF YOU WERE AFFECTED, READ BELOW.
+Link: https://www.reddit.com/r/chromeos/comments/onlcus/update_it_seems_google_has_pulled_the_165_stable/
+
+Can someone please tell me if this is normal for a Chromebook, or if this is some type of malware? Something can't be right? I need knowledgeable people here to help me out, or at the very least, explain this to me, because I'm convinced this things infected! Is "Google Cheets Hardware" legit?
+Link: https://www.reddit.com/r/chromeos/comments/jibf4p/can_someone_please_tell_me_if_this_is_normal_for/
+
+New Flag called "Bluetooth Revamp" brings a lot of Bluetoooth changes.
+Link: https://www.reddit.com/r/chromeos/comments/tdxwrd/new_flag_called_bluetooth_revamp_brings_a_lot_of/
+
+Touchpad issues - Lenovo Duet 5
+Link: https://www.reddit.com/r/chromeos/comments/tyqxju/touchpad_issues_lenovo_duet_5/
+
+GRIPE: pressing the mute key should *toggle* the mute state!
+Link: https://www.reddit.com/r/chromeos/comments/kpm2zh/gripe_pressing_the_mute_key_should_toggle_the/
+
+What the hell happened to <ctrl> V for pasting text??
+Link: https://www.reddit.com/r/chromeos/comments/t0u9ye/what_the_hell_happened_to_ctrl_v_for_pasting_text/
+
+Chrome OS Beta channel got promoted to Chrome OS 85. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/i275ff/chrome_os_beta_channel_got_promoted_to_chrome_os/
+
+Still getting Chromebook updates after the deadline
+Link: https://www.reddit.com/r/chromeos/comments/w9d254/still_getting_chromebook_updates_after_the/
+
+best chromeos 96 flags
+Link: https://www.reddit.com/r/chromeos/comments/r69kzd/best_chromeos_96_flags/
+
+Goodbye Google, I can't take your lack of care anymore.
+Link: https://www.reddit.com/r/chromeos/comments/v16nlr/goodbye_google_i_cant_take_your_lack_of_care/
+
+Fast Pair delayed again...?
+Link: https://www.reddit.com/r/chromeos/comments/xj6fbx/fast_pair_delayed_again/
+
+Samsung Tab s6 lite Vs Chromebook duet 3
+Link: https://www.reddit.com/r/chromeos/comments/wh8ivm/samsung_tab_s6_lite_vs_chromebook_duet_3/
+
+Run commands in Linux container (Crostini) automatically at Chrome OS startup
+Link: https://www.reddit.com/r/chromeos/comments/qq79fd/run_commands_in_linux_container_crostini/
+
+Never used Chromebook before, looking for advice on purchase
+Link: https://www.reddit.com/r/chromeos/comments/vxm2hi/never_used_chromebook_before_looking_for_advice/
+
+Weak WiFi Signal After Coming Home From Vacation - Lenovo S345-14AST, Model 81WX0000UX
+Link: https://www.reddit.com/r/chromeos/comments/ucc9c2/weak_wifi_signal_after_coming_home_from_vacation/
+
+Getting Canon printers to work with Chrome OS
+Link: https://www.reddit.com/r/chromeos/comments/tb65yd/getting_canon_printers_to_work_with_chrome_os/
+
+Chromebook fails to find / connect shared network drives when using ovpn
+Link: https://www.reddit.com/r/chromeos/comments/we6hq5/chromebook_fails_to_find_connect_shared_network/
+
+Chrome OS Dev channel got promoted to Chrome OS 85. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/gy5tb8/chrome_os_dev_channel_got_promoted_to_chrome_os/
+
+Acer Chromebook 15 CB5-571 with missing/damaged OS error repeatedly fails recovery
+Link: https://www.reddit.com/r/chromeos/comments/wekz9f/acer_chromebook_15_cb5571_with_missingdamaged_os/
+
+Complied list of ChromeOS feature requests that everyone should star!
+Link: https://www.reddit.com/r/chromeos/comments/glshm4/complied_list_of_chromeos_feature_requests_that/
+
+ChromeOS powerwash/system restore failure
+Link: https://www.reddit.com/r/chromeos/comments/vswt5w/chromeos_powerwashsystem_restore_failure/
+
+What version of Windows should I put on Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/vwj12q/what_version_of_windows_should_i_put_on_chromebook/
+
+Chrome OS Dev channel got updated to 85.0.4181.3. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/hh8a3z/chrome_os_dev_channel_got_updated_to_85041813/
+
+Power supply questions
+Link: https://www.reddit.com/r/chromeos/comments/v3is81/power_supply_questions/
+
+Lenovo Duet 5 vs. Galaxy Tab S7FE (Wifi) - personal review
+Link: https://www.reddit.com/r/chromeos/comments/rm87h3/lenovo_duet_5_vs_galaxy_tab_s7fe_wifi_personal/
+
+I'm tired of this
+Link: https://www.reddit.com/r/chromeos/comments/pevxx5/im_tired_of_this/
+
+Transparency effect added to dialog boxes is bad
+Link: https://www.reddit.com/r/chromeos/comments/tug6ap/transparency_effect_added_to_dialog_boxes_is_bad/
+
+Acer Chromebook Spin 713 - SSD Upgrade Guide
+Link: https://www.reddit.com/r/chromeos/comments/hsgtdj/acer_chromebook_spin_713_ssd_upgrade_guide/
+
+Accessing Google Drive files from Linux environment
+Link: https://www.reddit.com/r/chromeos/comments/rhw4qe/accessing_google_drive_files_from_linux/
+
+How to get rid of thick black borders on Firefox (Crostini)?
+Link: https://www.reddit.com/r/chromeos/comments/uzeu6h/how_to_get_rid_of_thick_black_borders_on_firefox/
+
+Setup Lan printer
+Link: https://www.reddit.com/r/chromeos/comments/s4zwjw/setup_lan_printer/
+
+Best PDF editor on ChromeOS
+Link: https://www.reddit.com/r/chromeos/comments/og57ru/best_pdf_editor_on_chromeos/
+
+Chrome OS Dev channel got updated to 85.0.4183.34. Here is what changed + update on the upcoming Chrome OS 84 Stable channel post
+Link: https://www.reddit.com/r/chromeos/comments/hw7njy/chrome_os_dev_channel_got_updated_to_850418334/
+
+Printer won't reconnect
+Link: https://www.reddit.com/r/chromeos/comments/r2lv8k/printer_wont_reconnect/
+
+Do you think the touchscreen keyboard sucks? Try a different language and see
+Link: https://www.reddit.com/r/chromeos/comments/nbl8bo/do_you_think_the_touchscreen_keyboard_sucks_try_a/
+
+Chrome OS Stable channel got promoted to Chrome OS 83. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/gs0hw2/chrome_os_stable_channel_got_promoted_to_chrome/
+
+Text Annotation in Google Photos/ChromeOS Photo Utility?
+Link: https://www.reddit.com/r/chromeos/comments/u74ffm/text_annotation_in_google_photoschromeos_photo/
+
+Kompanio 828 Acer 514 arrived today
+Link: https://www.reddit.com/r/chromeos/comments/tiy5av/kompanio_828_acer_514_arrived_today/
+
+My Recommended Chrome Flags to test for Chrome OS 84 Stable
+Link: https://www.reddit.com/r/chromeos/comments/hymc9v/my_recommended_chrome_flags_to_test_for_chrome_os/
+
+How to uninstall wine on Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/u7ft65/how_to_uninstall_wine_on_chromebook/
+
+Chromebook Recommendations?
+Link: https://www.reddit.com/r/chromeos/comments/vyoh0d/chromebook_recommendations/
+
+Chrome OS Beta got updated to 83.0.4103.31. Here is what's changed!
+Link: https://www.reddit.com/r/chromeos/comments/gakm6m/chrome_os_beta_got_updated_to_830410331_here_is/
+
+Chrome OS Dev channel got updated to 84.0.4133.0. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/gebj9w/chrome_os_dev_channel_got_updated_to_84041330/
+
+Pinned tabs: The madness has got to stop
+Link: https://www.reddit.com/r/chromeos/comments/9gbdep/pinned_tabs_the_madness_has_got_to_stop/
+
+Lenovo Chromebook Duet, 1 week, 2 days later
+Link: https://www.reddit.com/r/chromeos/comments/ltjgu1/lenovo_chromebook_duet_1_week_2_days_later/
+
+ChromeOS and Android tablets.
+Link: https://www.reddit.com/r/chromeos/comments/ufc0jo/chromeos_and_android_tablets/
+
+Stable version 70 impressions. Bugs and glitches galore.
+Link: https://www.reddit.com/r/chromeos/comments/9vqvvw/stable_version_70_impressions_bugs_and_glitches/
+
+I am So Pissed that I Wasted My money on a Chromebook.
+Link: https://www.reddit.com/r/chromeos/comments/sjwq72/i_am_so_pissed_that_i_wasted_my_money_on_a/
+
+Beta channel release notes
+Link: https://www.reddit.com/r/chromeos/comments/v6htq5/beta_channel_release_notes/
+
+PDF in Media App (Cont.)
+Link: https://www.reddit.com/r/chromeos/comments/tjdjhw/pdf_in_media_app_cont/
+
+Full guide on how to play steam games on your Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/ijj9ad/full_guide_on_how_to_play_steam_games_on_your/
+
+[Editorial] The Rise and Fall of the NewBlue Bluetooth Daemon
+Link: https://www.reddit.com/r/chromeos/comments/gkphuy/editorial_the_rise_and_fall_of_the_newblue/
+
+How to give Linux applications acces to your files
+Link: https://www.reddit.com/r/chromeos/comments/rv45ej/how_to_give_linux_applications_acces_to_your_files/
+
+Best Onedrive integration for Chrome OS in February 2021 using Crostini and Onedriver
+Link: https://www.reddit.com/r/chromeos/comments/lfn10x/best_onedrive_integration_for_chrome_os_in/
+
+Chrome OS Dev channel had a big update to 86.0.4229.0 some time ago. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/ijnxac/chrome_os_dev_channel_had_a_big_update_to/
+
+ChromeOS 96: where is update_over-cellular?
+Link: https://www.reddit.com/r/chromeos/comments/rkavtv/chromeos_96_where_is_update_overcellular/
+
+Chrome OS Dev channel got promoted to Chrome OS 86 some time ago. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/i7127f/chrome_os_dev_channel_got_promoted_to_chrome_os/
+
+Lenovo is chromebook
+Link: https://www.reddit.com/r/chromeos/comments/uat5on/lenovo_is_chromebook/
+
+PSA: There are 3 different Google Keep apps you can get - pick the right one.
+Link: https://www.reddit.com/r/chromeos/comments/gwywcu/psa_there_are_3_different_google_keep_apps_you/
+
+Some Android and Chrome OS alternatives I've found (and really like) that are comparable to their Apple iOS/macOS counterparts.
+Link: https://www.reddit.com/r/chromeos/comments/qoza4t/some_android_and_chrome_os_alternatives_ive_found/
+
+Ive been experiencing symlinks popping up all over the place at random. Is this a virus?
+Link: https://www.reddit.com/r/chromeos/comments/vgdxz9/ive_been_experiencing_symlinks_popping_up_all/
+
+Received the HP Chromebook X2 11 today - my Flop-And-Drop Quick Review from a Duet/Slate/X2 owner
+Link: https://www.reddit.com/r/chromeos/comments/py8d96/received_the_hp_chromebook_x2_11_today_my/
+
+Complete Guide to use Virtual Machines on a Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/illxsv/complete_guide_to_use_virtual_machines_on_a/
+
+My Review & Thoughts on the Samsung Galaxy Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/g7azdq/my_review_thoughts_on_the_samsung_galaxy/
+
+Can someone school me on signing into a managed gsuite account on my personal Chromebook?
+Link: https://www.reddit.com/r/chromeos/comments/l8uwkr/can_someone_school_me_on_signing_into_a_managed/
+
+Network Capture - Login Screen
+Link: https://www.reddit.com/r/chromeos/comments/uj322y/network_capture_login_screen/
+
+USI Stylus, and ChromeOS compatibility
+Link: https://www.reddit.com/r/chromeos/comments/rp48jx/usi_stylus_and_chromeos_compatibility/
+
+HP Pro C645 Help Linux Installation
+Link: https://www.reddit.com/r/chromeos/comments/rqwgef/hp_pro_c645_help_linux_installation/
+
+linking home chromebook to school
+Link: https://www.reddit.com/r/chromeos/comments/u4iwz8/linking_home_chromebook_to_school/
+
+Defining Icons for Pinned Shelf Web Apps - google admin
+Link: https://www.reddit.com/r/chromeos/comments/otjwnt/defining_icons_for_pinned_shelf_web_apps_google/
+
+How to save PDF's quickly in Chrome?
+Link: https://www.reddit.com/r/chromeos/comments/ta051p/how_to_save_pdfs_quickly_in_chrome/
+
+Disabling multiple users on Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/s4h46l/disabling_multiple_users_on_chromebook/
+
+You should join our Discord server, and here's why
+Link: https://www.reddit.com/r/chromeos/comments/b08jt9/you_should_join_our_discord_server_and_heres_why/
+
+Is it just me or is the new Zoom PWA kinda crap
+Link: https://www.reddit.com/r/chromeos/comments/oomn4e/is_it_just_me_or_is_the_new_zoom_pwa_kinda_crap/
+
+Let's discuss new Chrome OS features!
+Link: https://www.reddit.com/r/chromeos/comments/ewvp2e/lets_discuss_new_chrome_os_features/
+
+Chrome OS Dev channel was updated to 86.0.4217.0 a few weeks ago. This is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/iaielb/chrome_os_dev_channel_was_updated_to_86042170_a/
+
+Two occurrences of one app in the Launcher
+Link: https://www.reddit.com/r/chromeos/comments/tuin09/two_occurrences_of_one_app_in_the_launcher/
+
+Will a chromebook fit my workflow?
+Link: https://www.reddit.com/r/chromeos/comments/s4jgv1/will_a_chromebook_fit_my_workflow/
+
+Acer Chromebook Unsupported Soon
+Link: https://www.reddit.com/r/chromeos/comments/u20iez/acer_chromebook_unsupported_soon/
+
+Chrome Unboxed: More plagiarism and lack of accreditation inbound.
+Link: https://www.reddit.com/r/chromeos/comments/lmuiu1/chrome_unboxed_more_plagiarism_and_lack_of/
+
+Chrome OS Dev channel got updated to 85.0.4175.0. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/hcwolc/chrome_os_dev_channel_got_updated_to_85041750/
+
+ChomeOS software that supports Google Meet, Zoom, and Teams?
+Link: https://www.reddit.com/r/chromeos/comments/q81eao/chomeos_software_that_supports_google_meet_zoom/
+
+How to fix apps not displaying properly on ARM chromebooks.
+Link: https://www.reddit.com/r/chromeos/comments/up0cb8/how_to_fix_apps_not_displaying_properly_on_arm/
+
+Chrome OS Dev channel got updated to 85.0.4170.0. Here is what changed!
+Link: https://www.reddit.com/r/chromeos/comments/hampbs/chrome_os_dev_channel_got_updated_to_85041700/
+
+Just got in the C13 Thinkpad Yoga Ryzen 7 1st day impressions
+Link: https://www.reddit.com/r/chromeos/comments/pktgpw/just_got_in_the_c13_thinkpad_yoga_ryzen_7_1st_day/
+
+My Grandma has been using a Windows 7 PC for the past 10 years or So, but everything she does is in the Chrome browser. Her Laptop broke last week, and I feel like a Chromebook would be best. Need some help choosing the right one for her use case and budget.
+Link: https://www.reddit.com/r/chromeos/comments/lpz2si/my_grandma_has_been_using_a_windows_7_pc_for_the/
+
+I FINALLY found a native Chrome OS Windows Remote Desktop Solution!
+Link: https://www.reddit.com/r/chromeos/comments/g5n04j/i_finally_found_a_native_chrome_os_windows_remote/
+
+[RANT] What is Google doing with their Chromebook ads?
+Link: https://www.reddit.com/r/chromeos/comments/k8kgiq/rant_what_is_google_doing_with_their_chromebook/
+
+Question about ARM Chromebooks
+Link: https://www.reddit.com/r/chromeos/comments/tbxnb9/question_about_arm_chromebooks/
+
+How to enable Linux for AMD and possibly Intel CPU/APUs
+Link: https://www.reddit.com/r/chromeos/comments/svquhw/how_to_enable_linux_for_amd_and_possibly_intel/
+
+Why is Google completely incompetent at making an OS?
+Link: https://www.reddit.com/r/chromeos/comments/s2dtyt/why_is_google_completely_incompetent_at_making_an/
+
+Modern Chromebooks vs Old Chromebooks: Think before you buy an old Chromebook
+Link: https://www.reddit.com/r/chromeos/comments/lvuyhb/modern_chromebooks_vs_old_chromebooks_think/
+
+Surprised to say I am enjoying the Slate more than the PB Go
+Link: https://www.reddit.com/r/chromeos/comments/feo49t/surprised_to_say_i_am_enjoying_the_slate_more/
+
+HP 11a-na0200nd (MT8183, ARM) max output resolution only 1080p30?
+Link: https://www.reddit.com/r/chromeos/comments/os27qt/hp_11ana0200nd_mt8183_arm_max_output_resolution/
+
+Acer Spin 713 (2021) Impressions
+Link: https://www.reddit.com/r/chromeos/comments/qlti1u/acer_spin_713_2021_impressions/
+
+Apps that can automatically take a picture from webcam?
+Link: https://www.reddit.com/r/chromeos/comments/qyga83/apps_that_can_automatically_take_a_picture_from/
+
+Would Chromebooks with dedicated GPUs be worth the potential price increase?
+Link: https://www.reddit.com/r/chromeos/comments/aacccp/would_chromebooks_with_dedicated_gpus_be_worth/
+
+Considering a ChromeOS computer for elderly parent, questions from a newbie
+Link: https://www.reddit.com/r/chromeos/comments/s4p23h/considering_a_chromeos_computer_for_elderly/
+
+Help changing my chromebook plz
+Link: https://www.reddit.com/r/chromeos/comments/spjkgq/help_changing_my_chromebook_plz/
+
+Galaxy Chromebook Drawing App Lag
+Link: https://www.reddit.com/r/chromeos/comments/rcwlsa/galaxy_chromebook_drawing_app_lag/
+
+I just updated to Chrome 91 and Tote is back. How do I get rid of it?
+Link: https://www.reddit.com/r/chromeos/comments/nqe30l/i_just_updated_to_chrome_91_and_tote_is_back_how/
+
+Thinking of buying a Chromebook. But not sure it's the right fit for my needs
+Link: https://www.reddit.com/r/chromeos/comments/r0qly8/thinking_of_buying_a_chromebook_but_not_sure_its/
+
+Looking for special software on Chromeos
+Link: https://www.reddit.com/r/chromeos/comments/scdb0a/looking_for_special_software_on_chromeos/
+
+Lenovo 500e Review and How to Buy For Only $264 Pre-Tax
+Link: https://www.reddit.com/r/chromeos/comments/822a3f/lenovo_500e_review_and_how_to_buy_for_only_264/
+
